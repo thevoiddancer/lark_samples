@@ -1,0 +1,15 @@
+Sample Syntax:
+  "..."            One sample of a spoken line, awarded 1 point.
+  "'...'           One sample of multiple spoken lines, e.g. a conversation.
+   '...'"
+  "... <???> ..."  A sample with some unknown/unhearable parts in it.
+  "... [...] ..."  A sample with a sound effect embedded in it.
+  [...]            One pure sound effect, i.e. no points awarded.
+  "[...]"          A sample that could be regarded as a pure sound effect,
+                   but that still should be rewarded a point.
+  "..." @ M:SS     An indication of when in the song the sample is used.
+* "..."            A new/changed sample since the last version of the list.
+    - Group; Song; Album
+
+
+
