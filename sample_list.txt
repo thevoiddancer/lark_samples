@@ -1,5 +1,5 @@
 1. Blade Runner [738 points] (87 groups, 116 songs, 221 samples)
-  "Move on, move on." (Note: Police robot adressing crowd gathering after
+  "Move on, move on." (Note: Police robot addressing crowd gathering after
    a shootout)
     - Age of Chance; This is Crush Collision; One Thousand Years of Trouble
 
@@ -53,7 +53,7 @@
   "Haha-HA!" **
   [scream followed by gun blast] @ 0:02 **
     - Cat Rapes Dog; Schizo; Maximum Overdrive
-    (Note: * = Original mix, ** = Schizophrenia Remix found on the
+    (Note:   = Original mix, *  = Schizophrenia Remix found on the
      Trans-Europa Collection for example)
 
   "I want more life, fucker!"
@@ -107,12 +107,12 @@
   "Time to die." @ 0:10
     - Crackhead; Alpha State Sales Pitch; Poo Gazer volume 1: Cat Scat Fever
 
-* [electronic bleeps playing over Vangelis soundtrack] @ 0:00 (Note: Taken from
+  [electronic bleeps playing over Vangelis soundtrack] @ 0:00 (Note: Taken from
    the scene where Harrison Ford uses the ESPER machine to scan a photograph.
    Sample is also used in "The Razor Girl Machine" on the same album.)
     - Death Ride 69; First Contact; Screaming Down the Gravity Well
 
-* [electronic bleeps playing over Vangelis soundtrack] @ 0:00 (Note: Taken from
+  [electronic bleeps playing over Vangelis soundtrack] @ 0:00 (Note: Taken from
    the scene where Harrison Ford uses the ESPER machine to scan a photograph.
    Sample is also used in "First Contact" on the same album.)
     - Death Ride 69; Razor Girl Machine, The; Screaming Down the Gravity Well
@@ -130,7 +130,7 @@
   "The angels fell"
     - Dillinja; Angels Fell; Angels Fell
 
-* "I dreamt music" @ 0:00 (Note: Repeats throughout the song. Deckard, Harrison
+  "I dreamt music" @ 0:00 (Note: Repeats throughout the song. Deckard, Harrison
    Ford, speaking to Rachael, Sean Young, after she lets her hair down and
    starts playing the piano.)
     - DJ Icey; I Dreamt Music; I Dreamt Music (12")
@@ -284,10 +284,10 @@
   "Finest quality...superior workmanship..."
     - Manufacture; Running Mad; Voice of World Control
 
-* "I've done... questionable things." @ 0:09, 0:12, 4:29
-* "Fiery the angels fell..." @ 0:19, 0:26, 4:46, 4:49
-* "I've seen things you people wouldn't believe." @ 0:29, 0:36, 4:36
-* "All those moments will be lost in time... like tears in the
+  "I've done... questionable things." @ 0:09, 0:12, 4:29
+  "Fiery the angels fell..." @ 0:19, 0:26, 4:46, 4:49
+  "I've seen things you people wouldn't believe." @ 0:29, 0:36, 4:36
+  "All those moments will be lost in time... like tears in the
    rain." @ 3:05 (Note: First part also used @ 2:59, last part also
    used @ 3:21)
     - Mentallo & The Fixer; Ruthless; Where Angels Fear To Tread
@@ -424,7 +424,7 @@
   "I'd rather be a killer than a victim"
   "Ah you a blade runner"
     - Sigue Sigue Sputnik; Love Missile F1-11; Flaunt It
-    (Note: * = 12" version)
+    (Note:   = 12" version)
 
   "I like you just the way you are."
     - Sigue Sigue Sputnik; Dancerama; Dress for Excess
@@ -478,7 +478,7 @@
 
   "It's not an easy thing to meet your maker" *
   "Quite an experience to live in fear, isn't it?" *
-  (Note: * = It possible that these are not actual movie samples, but only
+  (Note:   = It possible that these are not actual movie samples, but only
    quotes from the movie spoken by someone.)
     - THX; Face of Fear, The; Living in Purgatory
 
@@ -598,7 +598,7 @@
    gate. All those moments will be lost in time, like tears in rain." @ 0:05
     - Vangelis; Tears In Rain; Blade Runner
 
-* "A new life awaits you in the offworld colonies. A chance to begin again in a
+  "A new life awaits you in the offworld colonies. A chance to begin again in a
    world of opportunity and adventure." (Note: At beginning and end of track)
     - Vik On Injection; Audio Game; Welcome to Space
 
@@ -672,7 +672,7 @@
    darkness... And God saw that it was Good.
    And from the crew of Apollo 8, we close with goodnight, good luck, merry
    christmas and God bless all of you, all of you on the good Earth"
-  (Note: Apollo Programme, apart from * which is Mercury Programme)
+  (Note: Apollo Programme, apart from   which is Mercury Programme)
     - Celtic Frost; One in their Pride; Into the Pandemonium
 
   "Godspeed, John Glenn." @ 0:00
@@ -725,7 +725,7 @@
    Partly used at 1:36 as well)
     - DJ Luna-C; Piano Progression X; Project X - 11 Reasons Why
 
-* "In the beginning, God created the Heaven and the Earth. And the Earth was
+  "In the beginning, God created the Heaven and the Earth. And the Earth was
    without form and void, and darkness was upon the face of the deep. And the
    spirit of God moved upon the face of the waters. And God said, 'Let there be
    light', and there was light." @ 0:14 (Note: Astronaut Bill Anders reading
@@ -758,7 +758,7 @@
    divided the light from the darkness..." ***
   "...and from the crew of Apollo 8, we close with goodnight, good luck, merry
    christmas and God bless all of you, all of you on this good Earth" ***
-  (Note: * = The Space Shuttle, ** = Mercury Programme, *** = Apollo 8)
+  (Note:   = The Space Shuttle, *  = Mercury Programme, **  = Apollo 8)
     - Grid, The; One Giant Step; Electric Head
 
   "...are you receiving me now?"
@@ -1120,7 +1120,7 @@
     - VNV Nation; Genesis; Futureperfect
 
 3. Apocalypse Now [306 points] (44 groups, 50 songs, 73 samples)
-* "G.I... Fuck you!" @ 0:01 (Note: Repeated throughout song)
+  "G.I... Fuck you!" @ 0:01 (Note: Repeated throughout song)
     - 23 Skidoo; F.U.G.I.; Urban Gamelan
 
   "I watched a snail, crawling on the edge of a straight razor. That's my
@@ -1183,7 +1183,7 @@
   "Right..." @ 0:13
   "She's moving behind you, check it out!" *
     - Front 242; Commando (Remix); Back Catalog
-    (Note: * = Only found on the live version of Commando)
+    (Note:   = Only found on the live version of Commando)
 
   "The charges aren't justified." @ 3:14
     - Front Line Assembly; Digital Tension Dementia; Gashed Sensed & Crossfire
@@ -1215,7 +1215,7 @@
    strength...to do that." (Note: Basically the whole Brando monologue)
     - Genocide Organ; Face of Horror; Leichenlinie
 
-* "G.I.. Fuck you!" (Note: Shouting vietnamese soldier)
+  "G.I.. Fuck you!" (Note: Shouting vietnamese soldier)
     - Genocide Organ; 1... 2... Tot; Leichenlinie
 
   "Heaven has fallen on the Earth"
@@ -1498,14 +1498,14 @@
   "<???> keep moving!" (Note: Gore)
     - Haujobb; Yearning; Homes and Gardens
 
-  "Lay down... sleep now... that's good" * (Note: Ripley)
+  "Lay down... sleep now... that's good"   (Note: Ripley)
   "'Now you lie here and have a nap. You're very tired' (Note: Ripley)
    'Don't wanna sleep, I have scary dreams'" (Note: Newt)
-  "I bet Casey doesn't have scary dreams" * (Note: Ripley)
-  "She's just a piece of plastic." * (Note: Newt)
-  "Scary dreams.." * (Note: Newt)
+  "I bet Casey doesn't have scary dreams"   (Note: Ripley)
+  "She's just a piece of plastic."   (Note: Newt)
+  "Scary dreams.."   (Note: Newt)
   [Tail-whipping effect from the Alien]
-  (Note: On 'Optimized v1.2' as well. * = 'Optimized v1.2' version only)
+  (Note: On 'Optimized v1.2' as well.   = 'Optimized v1.2' version only)
     - Haujobb; Homes and Gardens 'MY-1'; Homes and Gardens
 
   "Bio-readouts are all in the green, looks like she's alive. There goes our
@@ -1580,7 +1580,7 @@
     - Terror Against Terror; Only Good God is a Dead God, The;
       Psychological Warfare Technology Systems
 
-* "My mommie always said there were no monsters... no real monsters... but
+  "My mommie always said there were no monsters... no real monsters... but
    there are." @ 0:00
     - Unit:187; Dead Dog (Punter Mix); Stillborn
 
@@ -1606,16 +1606,16 @@
     - X Marks The Pedwalk; Paranoid Illusions; Human Desolation
 
 5. Kennedy, John F. (President) [275 points] (31 groups, 33 songs, 119 samples)
-* "And so my fellow americans, ask not what your country can do for you, ask
+  "And so my fellow americans, ask not what your country can do for you, ask
    what you can do for your country! [crowd cheering]" @ 0:03 (Note: From his
    inaugural address, Januari 20, 1961)
     - 3rd Bass; Wordz of Wizdom; Cactus Album, The
 
-* "No ghettos, no master race" *
-* "Let both sides unite ro heed" **
-* "Both sides begin anew the quest for peace" **
-  (Note: All samples repeated several times. * = From his civil rights
-   address, June 11, 1963. ** = From his inaugural address, Januari 20, 1961)
+  "No ghettos, no master race" *
+  "Let both sides unite ro heed" **
+  "Both sides begin anew the quest for peace" **
+  (Note: All samples repeated several times.   = From his civil rights
+   address, June 11, 1963. *  = From his inaugural address, Januari 20, 1961)
     - 3rd Bass; No Master Plan No Master Race; Derelicts of Dialect
 
   "This government, as promised, has maintained the closest surveillance of
@@ -1653,7 +1653,7 @@
   "Excuse me <Chad???>. Here is a flash from the Associated Press, Dateline
    Dallas: Two priests who were with President Kennedy say that he is dead of
    bullet wounds." @ 0:25 *
-  (Note: Samples marked with * are both taken from a radio broadcast regarding
+  (Note: Samples marked with   are both taken from a radio broadcast regarding
    John F. Kennedy's assassination.)
     - Birmingham 6; Assassinate; Assassinate
 
@@ -1679,11 +1679,11 @@
   (Note: All the samples are from his speech at the Berlin wall)
     - Deep Thought; Kennedy; Welcome To Technology I (CD Compilation)
 
-* "The torch has been passed to a new generation of Americans." @ 0:11 (Note:
+  "The torch has been passed to a new generation of Americans." @ 0:11 (Note:
    From his inaugural address, Januari 20, 1961)
     - Double Dee & Steinski; Lesson 3 (12")
 
-* "The moon and the planets are there. And new hopes for knowledge and peace
+  "The moon and the planets are there. And new hopes for knowledge and peace
    are there. And therefore as we set sail, we ask God's blessing on the most
    hazardous and dangerous and greatest adventure on which man has ever
    embarked." @ 0:12 (Note: From his moon speech, September 12, 1962)
@@ -1738,7 +1738,7 @@
   "Your nation is in the front lines" *
   "In america's own self-interest" *
   "We would prefer to see europe divided and weak, enabling the united
-   states to deal with each fragment individually." * (Note: There is no
+   states to deal with each fragment individually."   (Note: There is no
    cut! He said "If [we wanted to take over Europe], we would prefer...")
   "The united states of america"
   "The logic of fear"
@@ -1756,12 +1756,12 @@
   "Our forces and commitments will remain"
   "We are vigilant and determined to serve three related goals" **
   "Wars"
-  (Note: Sample marked with * = Address at the Paulskirche, Frankfurt,
-   ** = Address at Free University of Berlin)
+  (Note: Sample marked with   = Address at the Paulskirche, Frankfurt,
+   *  = Address at Free University of Berlin)
     - KMFDM; What Do You Know, Deutschland?; What Do You Know, Deutschland?
 
-* "I, John Fitzgerald Kennedy do solemnly swear" @ 1:33
-* "Ask not, what your country can do for you, ask what you can do for your
+  "I, John Fitzgerald Kennedy do solemnly swear" @ 1:33
+  "Ask not, what your country can do for you, ask what you can do for your
    country!" @ 1:36
   (Note: From his inauguration and inaugural address, Januari 20, 1961)
     - Kurtis Blow; America; America
@@ -1769,7 +1769,7 @@
   "Two thousand years ago...."
     - Laibach; Sympathy for the Devil; Sympathy for the Devil
 
-* "Ask not what your country can do for you." @ 4:33 (Note: From his inaugural
+  "Ask not what your country can do for you." @ 4:33 (Note: From his inaugural
    address, Januari 20, 1961)
     - Living Colour; Cult of Personality; Vivid
 
@@ -1834,7 +1834,7 @@
   (Note: From the address to the American People on the nuclear test ban treaty
    on July 26, 1963)
     - Siechtum; Kreuzfeuer; Kreuz:X:Feuer
-    (Note: * = Also found repeated and cut through out the God Module mix)
+    (Note:   = Also found repeated and cut through out the God Module mix)
 
   "We choose to go to the moon in this decade adn do the other things, not
    because they are easy, but because they are hard. We set sail on this new
@@ -1842,44 +1842,44 @@
    And they must be won and used for the progress of all mankind."
     - Smart E's; Apollo (lunar mix); Sesame's Treet
 
-* "Ask not what your country can do for you, ask what you can do for your..."
-* "Here is a bulletin..." *
-* "Stand by please." *
-* "In Dallas, Texas." *
-* "It appears as though something has happened..." *
-* "...in the motorcade route." *
-* "Ich bin ein Berliner."
-* "Three shots were fired." *
-* "Put me on, Mel, put me on." *
-* "President Kennedy has been seriously wounded by this shooting." *
-* "<???>, just arrived." *
-* "Mrs Kennedy jumped up. She called 'Oh no!'." *
-* "The energy."
-* "The faith."
-* "The devotion."
-* "The motorcade sped on." *
-* "The world is very different now..."
-* "Something has happened here." *
-* "We understand that there has been a shooting." *
-* "I can see many, many motorcycles." *
-* "Mrs Kennedy's pink suit." *
-* "Something is wrong here, something is terribly wrong." *
-* "The flash..." *
-* "<Apparently???> official..." *
-* "President Kennedy..." *
-* "...died..." *
-* "...at 1 pm..." *
-* "...Central..." *
-* "...Standard..." *
-* "...Time." *
-* "We dare not forget today that we are the heirs of that first revolution."
-  (Note: * = Reporters covering the motorcade & the assassination during it)
+  "Ask not what your country can do for you, ask what you can do for your..."
+  "Here is a bulletin..." *
+  "Stand by please." *
+  "In Dallas, Texas." *
+  "It appears as though something has happened..." *
+  "...in the motorcade route." *
+  "Ich bin ein Berliner."
+  "Three shots were fired." *
+  "Put me on, Mel, put me on." *
+  "President Kennedy has been seriously wounded by this shooting." *
+  "<???>, just arrived." *
+  "Mrs Kennedy jumped up. She called 'Oh no!'." *
+  "The energy."
+  "The faith."
+  "The devotion."
+  "The motorcade sped on." *
+  "The world is very different now..."
+  "Something has happened here." *
+  "We understand that there has been a shooting." *
+  "I can see many, many motorcycles." *
+  "Mrs Kennedy's pink suit." *
+  "Something is wrong here, something is terribly wrong." *
+  "The flash..." *
+  "<Apparently???> official..." *
+  "President Kennedy..." *
+  "...died..." *
+  "...at 1 pm..." *
+  "...Central..." *
+  "...Standard..." *
+  "...Time." *
+  "We dare not forget today that we are the heirs of that first revolution."
+  (Note:   = Reporters covering the motorcade & the assassination during it)
     - Steinski & Mass Media; Motorcade Sped On, The
     (Note: Can be found on 7" single "NME's Hat-Trick" which was given
      away as a free disc on the front of New Musical Express due to
      copyright issues. Can also be found on a number of compilations.)
 
-* "The world is very different now" @ 2:38 (Note: Repeated several times. From
+  "The world is very different now" @ 2:38 (Note: Repeated several times. From
    his inaugural address, Januari 20, 1961)
     - Three Times Dope; Funky Dividends; Original Stylin'
 
@@ -2443,7 +2443,7 @@
     - Lights of Euphoria; Subjection (Violent Mix); Thought Machine
     (Note: Also appears on The Digital Space Between, Vol 2.)
 
-* "Legend has it that it was written by the Dark Ones, Necronomicon Ex Mortis.
+  "Legend has it that it was written by the Dark Ones, Necronomicon Ex Mortis.
    Roughly translated, Book of the Dead. The book served as a passageway to the
    evil worlds beyond. It was written long ago, when the seas ran red with
    blood. It was this blood that was used to ink the book. In the year 1300 AD,
@@ -2468,17 +2468,17 @@
   "She suffers in torment!"
     - Revolting Cocks; Get Down; Beers, Steers, and Queers
 
-* "The book served as a passageway to the evil worlds
+  "The book served as a passageway to the evil worlds
    beyond" @ 0:18, 5:36 (Note: Backwards masked)
     - Ron D Core; Inextricable Zenith; Medical Mayhem
 
-* "Necronomicon" @ 0:10 (Note: Used repeatedly)
-* "Ex mortus" @ 0:23 (Note: Used repeatedly)
-* "Book of the dead" @ 0:50 (Note: Used repeatedly)
-* "We want what is yours" @ 0:53 (Note: Used repeatedly and partially)
-* "No!" @ 1:22
-* "Life!" @ 1:44 (Note: Used repeatedly)
-* [demon laughing] @ 2:45
+  "Necronomicon" @ 0:10 (Note: Used repeatedly)
+  "Ex mortus" @ 0:23 (Note: Used repeatedly)
+  "Book of the dead" @ 0:50 (Note: Used repeatedly)
+  "We want what is yours" @ 0:53 (Note: Used repeatedly and partially)
+  "No!" @ 1:22
+  "Life!" @ 1:44 (Note: Used repeatedly)
+  [demon laughing] @ 2:45
     - Santana, Omar; Necronomicon
     (Note: The origin of this song is a bit uncertain. Either
      this is the remix by <[Neophyte]> or it is a collaboration
@@ -2665,8 +2665,8 @@
   "Heat, upon heat, upon heat!" @ 0:00
     - Shai Hulud; Set Your Body Ablaze; Whole New Level
 
-* [launching sound] @ 0:00, 0:35, 1:19, 1:48, 2:03, 2:17, 3:28, 4:00
-* "The Spice extends life. The Spice expands consciousness. The Spice is vital
+  [launching sound] @ 0:00, 0:35, 1:19, 1:48, 2:03, 2:17, 3:28, 4:00
+  "The Spice extends life. The Spice expands consciousness. The Spice is vital
    to space travel." @ 0:26, 1:09, 2:06, 3:17
     - Timeless; Spice (Timelesspace Mix); Spice (12")
     (Note: Also found on a number of compilations, e.g. Serious Beats 13)
@@ -2679,7 +2679,7 @@
   "Worms attack all rhythmic vibrations" (Note: Repeated and heavily distorted)
     - Void Construct; TraumaTech; Sensory Division
 
-* "He's here my Lord." @ 1:14 (Note: Reverend Mother Gaius Helen Mohiam to
+  "He's here my Lord." @ 1:14 (Note: Reverend Mother Gaius Helen Mohiam to
    Padishah Emperor Shaddam IV)
   "We have just folded space from Ix" @ 3:14 (Note: The 7th stage navigator
    first speaking to the emperor; repeats once again and then a couple more
@@ -2995,7 +2995,7 @@
   "I believe in freedom" *
   "What we are looking at is good and evil, right and wrong. A new world
    order!"
-  (Note: * = 9 minute Dance Edit CD5)
+  (Note:   = 9 minute Dance Edit CD5)
     - Ministry; N.W.O.; Psalm 69
 
   "Each of Roosevelts four freedoms leads us to the greatest of all human
@@ -3473,7 +3473,7 @@
   "1138 You're getting Talbot contact"
   "We're tracked at 2.20, Vector oh seven niner, but we're making contact at
    point 0 0 3"
-* "Now don't override here, this is critical."
+  "Now don't override here, this is critical."
   "OK you can start your descent, thats it, slow down just a little bit, you're
    overriding point seven"
   "OK, hold it 1138"
@@ -3562,8 +3562,8 @@
    sprawling cities." @ 2:17
     - Covenant; Voices; Dreams of a Cryotank
 
-* "I have a dream." @ 0:00 (Note: Repeated throughout song)
-* "I still have a dream." @ 0:33 (Note: repeated throughout song)
+  "I have a dream." @ 0:00 (Note: Repeated throughout song)
+  "I still have a dream." @ 0:33 (Note: repeated throughout song)
   (Note: Spoken in Washington, D.C. on 28 August 1963)
     - DJ Quicksilver; I Have A Dream (Video Mix); Quicksilver
 
@@ -3768,24 +3768,24 @@
    We must go free! Now! Now is the time!" @ 0:15
     - Atari Teenage Riot; Atari Teenage Riot; Burn, Berlin, Burn!
 
-* "We don't care who likes us or not. As long as we know it's the truth. Much
+  "We don't care who likes us or not. As long as we know it's the truth. Much
    of what I say might sound bitter, but it's the truth. Much of what I say
    might sound like it's stirring up trouble, but it's the truth." @ 2:34
-* "You don't need any blades. You don't need any switchblades. All you need is
+  "You don't need any blades. You don't need any switchblades. All you need is
    the truth. They put you in jail for tearing a blade but they can't put you
    in jail for telling the truth." @ 3:08
   (Note: From the Harlem Unity Rally speech, August 10, 1963)
     - Boogie Down Productions; Scott La Rock Mega Mix, The (CD bonus track);
       Criminal Minded
 
-* "Every time you look at yourself be you black, brown, red or yellow, a so
+  "Every time you look at yourself be you black, brown, red or yellow, a so
    called negro, you are, you represent a person who poses such a serious
    problem for America because you're not wanted." @ 0:55
-* "So we are all black people. So called negroes. Second class citizens.
+  "So we are all black people. So called negroes. Second class citizens.
    Ex-slaves. You are nothing but an ex-slave. You don't like to be told that,
    but what else are you? You are ex-slaves, you didn't come here on the
    Mayflower." @ 1:47
-* "We unite, on the basis of what we have in common. And what we have foremost
+  "We unite, on the basis of what we have in common. And what we have foremost
    in common is that enemy: the white man. He's an enemy to all of us. I know
    some of you all think that some of them aren't enemies." @ 3:05
   (Note: From the Message to the Grass Roots speech, November 10, 1963)
@@ -3817,7 +3817,7 @@
   "Any means necessary for survival." @ 0:07
     - Front Line Assembly; Blade, The (Technohead); Blade, The
 
-* "If violence is wrong in America, violence is wrong abroad. If it's wrong to
+  "If violence is wrong in America, violence is wrong abroad. If it's wrong to
    be violent defending black women and black children and black babies and
    black men, then it's wrong for America to draft us and make us violent
    abroad in defense of her." @ 0:01 (Note: From the Message to the Grass Roots
@@ -3843,23 +3843,23 @@
    done." @ 1:11
     - Ice Cube; Integration; Predator, The
 
-* "It's liberty or death. There's freedom for everybody or freedom for
+  "It's liberty or death. There's freedom for everybody or freedom for
    nobody. [crowd cheering]" @ 0:33
-* "They don't wanna hear you old Uncle Tom handkerchieved hand talking about,
+  "They don't wanna hear you old Uncle Tom handkerchieved hand talking about,
    uh, the odds, no! [crowd laughing]" @ 0:56
-* "Revolutions overturn systems. [crowd cheering] Revolutions destroy
+  "Revolutions overturn systems. [crowd cheering] Revolutions destroy
    systems. [crowd cheering]" @ 3:05
   (Note: All samples from the "Ballot or the Bullet" speech, April 12, 1964)
     - Immortal Technique; Revolutionary; Revolutionary Vol. 1
 
-* "Brothers and sisters, and friends, and I see some enemies. [audience laughs
+  "Brothers and sisters, and friends, and I see some enemies. [audience laughs
    and applauds] In fact I think we'd be fooling ourselves if we had a audience
    this large and didn't realize that there were some enemies present." @ 0:00
   (Note: From the "Ballot or the Bullet" speech, April 12, 1964)
     - Immortal Technique; No Mercy; Revolutionary Vol. 1
 
-* "Too black" @ 3:47
-* "Too strong" @ 3:54
+  "Too black" @ 3:47
+  "Too strong" @ 3:54
   (Note: From the Message to the Grass Roots speech, November 10, 1963)
     - Jungle Brothers; I'll House You; Straight Out The Jungle
 
@@ -3895,8 +3895,8 @@
   "Malcolm X"
     - LeBlanc, Keith; Malcolm X; Malcolm X (12")
 
-* "And during the few moments that we have left" @ 0:00
-* "We wanna talk right down to earth in a language that everybody here can
+  "And during the few moments that we have left" @ 0:00
+  "We wanna talk right down to earth in a language that everybody here can
    easily understand." @ 0:03
   (Note: From the Message to the Grass Roots speech, November 10, 1963)
     - Living Colour; Cult of Personality; Vivid
@@ -3910,8 +3910,8 @@
    existance by any means necessary. [crowd cheering]" @ 1:55
     - Paris; Break the Grip of Shame; Devil Made Me Do It, The
 
-* "Too black" (Note: Repeated several times)
-* "Too strong" (Note: Repeated several times)
+  "Too black" (Note: Repeated several times)
+  "Too strong" (Note: Repeated several times)
   (Note: From the Message to the Grass Roots speech, November 10, 1963)
     - Public Enemy; Bring The Noise;
       It Takes a Nation of Millions To Hold Us Back
@@ -3930,12 +3930,12 @@
   "And it wasn't a dream. This was a nightmare." (Note: Repeated several times)
     - Ruthless Rap Assassins; And It Wasn't A Dream; Killer Album
 
-* "Let's run away" (Note: Repeated several times)
-* "Let's escape" (Note: Repeated several times)
+  "Let's run away" (Note: Repeated several times)
+  "Let's escape" (Note: Repeated several times)
   (Note: From the Message to the Grass Roots speech, November 10, 1963)
     - Showbiz & AG; Runaway Slave; Runaway Slave
 
-* "You don't catch hell because you're a Methodist or a Baptist, you don't
+  "You don't catch hell because you're a Methodist or a Baptist, you don't
    catch hell because you're a Democrat or a Republican. You don't catch hell
    because you're a Mason or an Elk. And you sure don't catch hell 'cause
    you're an American... 'cause if you was an American you wouldn't catch no
@@ -3943,7 +3943,7 @@
    Message to the Grass Roots speech, November 10, 1963)
     - Showbiz & AG; Hard to Kill; Runaway Slave
 
-* "We all agree tonight, all of the speakers have agreed, that America has
+  "We all agree tonight, all of the speakers have agreed, that America has
    a very serious problem. Not only does America have a very serious
    problem, but our people have a very serious problem. America's problem
    is..." @ 0:00  (Note: From the Message to the Grass Roots speech, November
@@ -3951,10 +3951,10 @@
     - Stop the Violence Movement, The; Self-Destruction
     (Note: 12" single only)
 
-* "I wanna talk right down to earth in a language that everybody here can
+  "I wanna talk right down to earth in a language that everybody here can
    easily understand." @ 1:29
-* "We all agreed" @ 1:37
-* "Our people have a very serious problem." @ 1:42
+  "We all agreed" @ 1:37
+  "Our people have a very serious problem." @ 1:42
   (Note: From the Message to the Grass Roots speech, November 10, 1963)
     - Three Times Dope; Increase The Peace/What's Going On; Original Stylin'
 
@@ -4288,11 +4288,11 @@
   (Note: Taken from the episode "Arena")
     - 3rd Mind; Just Makes Me; Kickin' Techno
 
-* "Eyes burn" @ 0:00
-* "My eyes are flame" @ 0:25
-* "Eyes burn; I plead; My eyes are flame; Eyes burn; I beg; My heart is
+  "Eyes burn" @ 0:00
+  "My eyes are flame" @ 0:25
+  "Eyes burn; I plead; My eyes are flame; Eyes burn; I beg; My heart is
    flame" @ 1:08, 2:04
-* "He has the power; I plead with the thee; Forgive, forbid" @ 2:38
+  "He has the power; I plead with the thee; Forgive, forbid" @ 2:38
   (Note: From season 2, episode "Amok Time", where Spock fights Kirk as part of
    some Vulcan courtship coming of age nonsense. Samples like the ones @ 1:08,
    2:04 and 2:38 are pieced together from parts of a dialogue between Spock
@@ -4386,12 +4386,12 @@
 
   "Picking up communications sir" (Note: Uhura)
   "Acknowledged" (Note: Kirk)
-  "Aye, Aye sir" * (Note: Scotty)
-  "Scotty" * (Note: Kirk)
-  "Now hit warp factor 1" * (Note: Kirk)
-  "Warp factor 6" * (Note: Kirk)
+  "Aye, Aye sir"   (Note: Scotty)
+  "Scotty"   (Note: Kirk)
+  "Now hit warp factor 1"   (Note: Kirk)
+  "Warp factor 6"   (Note: Kirk)
   "Captain" (Note: Scotty, very faint)
-  (Note: Samples marked with * repeated about 3 times each)
+  (Note: Samples marked with   repeated about 3 times each)
     - New Order; Sister Ray (Cover Version);
       BBC Radio 1 Live in Concert New Order
 
@@ -4606,7 +4606,7 @@
   "The whole world is one great big fuck." *
   [The psycho's primal screams as he fucks the dame on the floor] *
     - Malhavoc; S.C.E.X.; Release, The
-    (Note: * = XXX Rated Version)
+    (Note:   = XXX Rated Version)
 
   "[groans] Mummy! Mummy! Baby wants to fuck! [groans] You fuck! you fucker's
    fucker! You fucker! [groans] Don't you fucking look at me!"
@@ -4770,7 +4770,7 @@
    the speech to parole board)
     - Heavy Water Factory; Place Of Torment; Author Of Pain
 
-* "If I started murdering people, there'd be none of you
+  "If I started murdering people, there'd be none of you
    left." @ 0:19, 2:00 (Note: Charles Manson's speech to the Parole Board)
     - I, Parasite; Criminail; Turin
 
@@ -4787,7 +4787,7 @@
   "To stab somebody is a sexual release in itself." *
   (Note: Documentary movie about Charles Manson and his 'family')
     - Malhavoc; S.C.E.X.; Release, The
-    (Note: * = XXX Rated Version)
+    (Note:   = XXX Rated Version)
 
   "Why are the children doing what they're doing?  Why does a child reach up
    and kill his mom and dad and murder his two little sisters and then cut his
@@ -4873,8 +4873,8 @@
   "One woman just stood in the middle of the room and cried. Cried like a
    baby..." @ 1:37 ***
   "...pleading for someone to help her" @ 2:12, 2:49
-  (Note: * = From episode "Walking Distance". ** = From episode "Nightmare at
-   20,000 Feet", spoken by William Shatner. *** = From episode "The Midnight
+  (Note:   = From episode "Walking Distance". *  = From episode "Nightmare at
+   20,000 Feet", spoken by William Shatner. **  = From episode "The Midnight
    Sun")
     - Doubting Thomas; Nagual Tone; Infidel, The
 
@@ -4892,7 +4892,7 @@
   (Note: Taken from the episode "The Living Doll")
     - Japanese Car Crash; Left With No Goodbyes; Attack Decay Sustain Release
 
-* "'<???> Under these <???>... bandages.'
+  "'<???> Under these <???>... bandages.'
    '<???>'
    'No, deeper than that. Deeper than that <???>... crusted lump of flesh.
     Deeper even then that, misshapen skeletal mask."
@@ -5176,9 +5176,9 @@
   [scream from Megan]
   "Shove it up your ass... in the name of the Lord Jesus Christ" @ 0:18, 0:22,
    0:26, 0:30, 0:34, 0:38, 0:42, 0:46 **
-  "Let Jesus fuck you!" @ 2:08, 2:11, 4:16 ** (Note: Slowed down @ 4:40)
+  "Let Jesus fuck you!" @ 2:08, 2:11, 4:16 *  (Note: Slowed down @ 4:40)
     - Kode IV; Possessed; Possessed
-    (Note: * = 12" version, ** = 12" and final demonic madness cut CDS)
+    (Note:   = 12" version, *  = 12" and final demonic madness cut CDS)
 
   "Do you keep any drugs in your house?"
     - Kode IV; Crackdown; Possessed
@@ -5256,7 +5256,7 @@
   "The dark... inside me..." (Note: Repeated several times throughout the song)
     - Accessory; Killing Machine; Jukka2147.DE
 
-* "'Place is a deep-freeze. We got ice crystals everywhere.' (Note: Laurence
+  "'Place is a deep-freeze. We got ice crystals everywhere.' (Note: Laurence
     Fishburne as Captain Miller)
    'That's the central corridor that you're in now. It connects the personnel
     areas at the front of the ship to Engineering at the rear.'
@@ -5264,7 +5264,7 @@
    'Yes, sir.' (Note: Jack Noseworthy as Justin)
    'Peters and I will take the forward decks.'" @ 0:06 (Note: Laurence
     Fishburne)
-* "'Yeah, I've got another one over here. They're all over the
+  "'Yeah, I've got another one over here. They're all over the
     place.' (Note: Kathleen Quinlan as Peters)
    'In an emergency they destroy the central corridor and split the
     ship in half, and then the crew can use the foredecks as a
@@ -5273,11 +5273,11 @@
    dialogue, "Doctor, what are these?" is not in the track)
     - Alien Project; Aztechno Dream; Aztechno Dream
 
-* "The shortest distance between two points is zero, and that's what the
+  "The shortest distance between two points is zero, and that's what the
    gateway does; it folds... space." @ 2:57
     - Alien Project; Artifical Beings; Aztechno Dream
 
-* "'The antennae array is completely fried. We've got no radio, no laser, no
+  "'The antennae array is completely fried. We've got no radio, no laser, no
     high gain.  No-one's coming to help. This air tastes bad.' (Note: Joely
     Richardson as Starck)
    'Yeah, carbon dioxide.' (note: Laurence Fishburne as Captain Miller)
@@ -5286,7 +5286,7 @@
    'We'll take the <????> from the Clark. That gives us what?'
    'Enough breathable air for 20 hours, but after that we'd better be
     gone.'" @ 4:06
-* "DJ, where are you?" @ 6:51
+  "DJ, where are you?" @ 6:51
     - Alien Project; DJ Where Are You?; Aztechno Dream
 
   "God help us." @ 0:48
@@ -5645,9 +5645,9 @@
   [Predator roaring] @ 1:46
     - Hyper On Experience; Lords of the Null-Lines; Deaf In The Family EP
 
-* "There's no stopping what can't be stopped. No killing what can't be
+  "There's no stopping what can't be stopped. No killing what can't be
    killed." @ 0:00
-* "They indicated that when trapped, the creature activated a self-destruct
+  "They indicated that when trapped, the creature activated a self-destruct
    device that destroyed enough rainforest to cover 300 city blocks." @ 3:37
     - Ice Cube; Predator, The; Predator, The
 
@@ -6249,11 +6249,11 @@
    We will add your biological and technological distinctiveness to our own.
    Your culture will adapt to service ours." @ 5:46 *
     - Velvet Acid Christ; Futile (Nazi Bastard Mix); Church of Acid
-    (Note: Samples marked with * can also be found, with other timing
+    (Note: Samples marked with   can also be found, with other timing
      indications and possibly only partly, on the LSD Mix found on the
      sampler album "Tyranny Off the Beat 3")
 
-* "Screeching, pounding dissonance. That's not music." @ 0:44, 2:41,
+  "Screeching, pounding dissonance. That's not music." @ 0:44, 2:41,
    4:30 (Note: First part also used at 4:26, 4:28. Taken from the
    episode "Phantasms", season 7, episode 6; the speaker is Michael
    Dorn as Worf.)
@@ -6789,7 +6789,7 @@
    anymore, a man who stood up against the scum(*), the cunts, the dogs, the
    filth, the shit, here is someone who stood up!" *
     - Hoodlum Priest; Rev; Beneath The Pavement... The Beach
-    (Note: * = Roxy Mix)
+    (Note:   = Roxy Mix)
 
   "You screwheads! Here is a man who would not take it anymore. Here is a man
    who stood up against the scum, the cunts, the dogs..."
@@ -6845,7 +6845,7 @@
     - Xzibit; At The Speed Of Life; At The Speed Of Life
 
 41. South Park (TV Series) [102 points] (7 groups, 7 songs, 72 samples)
-* ".. take a smell so you know when someone is smoking mari-ju-ana near
+  ".. take a smell so you know when someone is smoking mari-ju-ana near
    you." @ 4:02 (Note: Mr Mackee, the school counsellor from the
    episode "Ike's Wee-Wee")
     - Alien Project; Skunk; Aztechno Dream
@@ -7048,7 +7048,7 @@
    country." @ 3:18 (Note: Spoken by David Crawford as Dr. Foster)
     - White Zombie; God of Thunder; God of Thunder (EP)
 
-* "The people in this project are your responsibility... We don't want any of
+  "The people in this project are your responsibility... We don't want any of
    them hurt." (Note: Repeated several times)
     - Zero Defects; Hostages; Non-Recyclable
 
@@ -7264,7 +7264,7 @@
    Martin <???>. Our first selection is Twilight <???>"
     - Brume; Dans Le Silence Part II; Dans Le Silence/Schrei nach Still
 
-* "I must disengage your recreational music" @ 2:01 (Note: Ship's computer)
+  "I must disengage your recreational music" @ 2:01 (Note: Ship's computer)
     - Buckethead; Mausoleum Door; Bermuda Triangle
 
   "I must disengage your recreational music."
@@ -7427,7 +7427,7 @@
   "What kind of rat bastard psychotic would play that song right now?" @ 6:13 *
   "Cocaine" @ 6:58, 7:11, 7:25, 7:39, 7:52, 8:05 *
   "LLLLLLSSSSSSDDDDDDD?" @ 8:35
-  (Note: All samples marked * are Johnny Depp as Raoul Duke)
+  (Note: All samples marked   are Johnny Depp as Raoul Duke)
     - Expect; Unexpect;
     (Note: 12" single, Tatsu Recordings, TATSU026 B-side)
 
@@ -7594,7 +7594,7 @@
    spoken by cop in helicopter)
     - Dismantled; Backwards; PostNuclear
 
-* "I'm setting the example, and what I've done is gonna be puzzled over...
+  "I'm setting the example, and what I've done is gonna be puzzled over...
    and studied... and followed... forever." @ 0:41 (Note: John Doe)
   "You're only alive, because I didn't kill you." @ 1:20, 4:43 (Note: John Doe)
   "That's life, isn't it." @ 6:35 (Note: Brothel Owner)
@@ -7610,12 +7610,12 @@
     John Doe {Kevin Spacey})
     - H.I.V.+; Just One X-God; Censored Frequencies
 
-* "Wanting people to listen, you can't just tap them on the shoulder anymore.
+  "Wanting people to listen, you can't just tap them on the shoulder anymore.
    You have to hit them with a sledge hammer, and then you'll notice you've got
    their strict attention." @ 0:17, 4:08
-* "You're only alive because I didn't kill you." @ 0:35
-* "When a person is insane" @ 0:52
-* "Do you know that you're insane? Maybe you're just sitting around, reading
+  "You're only alive because I didn't kill you." @ 0:35
+  "When a person is insane" @ 0:52
+  "Do you know that you're insane? Maybe you're just sitting around, reading
    Guns'n'Ammo, masturbating in your own feces. Do you just stop and go 'Wow,
    it is amazing how fucking crazy I really am'" @ 0:54 (Note: 'Wow...' part
    repeated at 3:59.)
@@ -8088,7 +8088,7 @@
   "Music...is my life!!" *
   "It's Heavy" *
     - Malhavoc; S.C.E.X.; Release, The
-    (Note: * = XXX Rated Version)
+    (Note:   = XXX Rated Version)
 
   "On the afternoon of August 18, 1973, five young people in a Volkswagen van
    ran out of gas on a farm road in south Texas. Four of them were never seen
@@ -8164,7 +8164,7 @@
    changes."
     - Orbital; I Don't Know You People; Middle Of Nowhere, The
 
-* "Church in Hell" @ 0:00 (Note: Repeated throughout the song every 5 seconds)
+  "Church in Hell" @ 0:00 (Note: Repeated throughout the song every 5 seconds)
   [record playing in background with sobbing]
     - Skinny Puppy; Church; Bites
 
@@ -8291,7 +8291,7 @@
   "Five billion people died in 1996 and 1997." @ 0:00, 0:08, 0:20, 4:30
     - Accessory; Pictures of Tails; Machineries of Joy Vol 1
 
-* "We're all monkeys" @ 0:27
+  "We're all monkeys" @ 0:27
     - Boole; Totally Alone; Pheromones
 
   "This is a place for crazy people." @ 0:27, 0:33, 0:40, 0:47, 5:24, 5:30,
@@ -8473,7 +8473,7 @@
   (Note: Taken from the episode "Fight The Future")
     - Accessory; And I Say Go; And I Say Go
 
-* "OK, so these agents were investigating something, something like what they
+  "OK, so these agents were investigating something, something like what they
    themselves were almost killed by?  Uh, something they came into contact
    with... a third party... two third parties... twins... relatives... a
    doppelganger... a corporeal likeness that appears unbidden from the spirit
@@ -8511,17 +8511,17 @@
       Songs in the Key of X
 
   "They're comin' again... they're comin' again I can feel
-   it." @ 1:26 * (Note: Duane Berry)
+   it." @ 1:26   (Note: Duane Berry)
   "'Where is she? Where'd you leave her?'
    'They took her'
    'Who?'
-   'THEM!'" @ 2:06 * (Note: Fox Mulder & Duane Berry)
+   'THEM!'" @ 2:06   (Note: Fox Mulder & Duane Berry)
   "'The Thinker reports the protein chains are a result of branched DNA.'
    'Branched DNA?'
    'The cutting edge of genetic engineering.'
-   'A biological equivalent of a silicon microchip.'" @ 1:00 ** (Note: Byers,
+   'A biological equivalent of a silicon microchip.'" @ 1:00 *  (Note: Byers,
    Mulder & Langle. Partly used at 2:55 as well.)
-  (Note: * = Taken from episode "Duane Berry". ** = Taken from episode "One
+  (Note:   = Taken from episode "Duane Berry". *  = Taken from episode "One
    Breath")
     - Pierrepoint; Pulsing Redlight Intro; Pulsing Red Light
 
@@ -8728,7 +8728,7 @@
   "I have my soul... I have my faith... What do you have?" @ 1:40 (Note: Thomas
    Dagget)
     - Front Line Assembly; Colombian Necktie; FLAvour of the Weak
-    (Note: * = Goarge Mix on Colombian Necktie single)
+    (Note:   = Goarge Mix on Colombian Necktie single)
 
   "Why didn't you just ask god?" @ 0:19  (Note: Thomas Dagget)
   "Because he doesn't talk to me anymore." @ 0:27  (Note: Gabriel)
@@ -8756,7 +8756,7 @@
   (Note: All of the spoken samples are cut from a slightly longer speech)
     - Noise Unit; Penance; Drill
 
-* "Even now in heaven were there angels carrying savage weapons" @ 0:00
+  "Even now in heaven were there angels carrying savage weapons" @ 0:00
     - U.N.K.L.E.; Eye For An Eye; Never, Never, Land
 
   "'What are you? Where do you come from?'
@@ -8866,7 +8866,7 @@
    from Dillon's back. Repeated throughout the song.)
     - Future Sound of London; Egypt; ISDN
 
-* "There's something out there waiting for us." @ 0:05
+  "There's something out there waiting for us." @ 0:05
     - Ice Cube; Predator, The; Predator, The
 
   [Rattly animal breathing noise] @ 0:54
@@ -8890,7 +8890,7 @@
   "This is the jungle. It just came alive and took him."
     - Shimmon; Predator (EP)
 
-* "'You're bleeding, man.'
+  "'You're bleeding, man.'
    'I ain't got time to bleed.'" @ 0:00
     - Torture Killer; No Time To Bleed; For Maggots To Devour
 
@@ -9020,7 +9020,7 @@
   "Devil" (Note: Repeated throughout the song)
     - Wumpscut; Default Remiss; Music for a Slaughtering Tribe
 
-* "Church in hell" @ 0:20
+  "Church in hell" @ 0:20
     - Wumpscut; Dudek; Music for a Slaughtering Tribe
 
 68. Prisoner, The (TV Series) [59 points] (9 groups, 9 songs, 19 samples)
@@ -9057,7 +9057,7 @@
   "'I didn't know you existed.'
    'It is often the case with very important people. Anonymity is the best
     disguise'" *
-  (Note: * = From the third episode, "A, B & C", ** = From the episode "Once
+  (Note:   = From the third episode, "A, B & C", *  = From the episode "Once
    upon a time")
     - Death In June; She Said Destroy (1988 remix); 93 Dead Sunwheels
 
@@ -9107,7 +9107,7 @@
     - Source Code; I'm Not A Number!; Serious Beats Vol. 7 [compilation]
 
 70. Goodfellas [58 points] (10 groups, 10 songs, 13 samples)
-* "Yahoo ya motherfucker's... [gun fire]" @ 0:00
+  "Yahoo ya motherfucker's... [gun fire]" @ 0:00
     - Blood Duster; Iloveitwhenjoepesciswears; Cunt
 
   "Murder was the only way everybody stayed in line... you got out of line,
@@ -9212,9 +9212,9 @@
   "Yeah you can feel me now motherfucker!" @ 0:42
     - Cat Rapes Dog; Demigod President; Moosehair Underwear
 
-* "Stupid and suicidal, sadistic to have children right now." @ 0:06
-* "Steralize people who already have, by doses of radioactivity." @ 0:10, 3:28
-* "It's our nature to reproduce, to live on through our children." @ 0:17,
+  "Stupid and suicidal, sadistic to have children right now." @ 0:06
+  "Steralize people who already have, by doses of radioactivity." @ 0:10, 3:28
+  "It's our nature to reproduce, to live on through our children." @ 0:17,
    1:36, 3:30 ((Note: First part of this sample also used at 2:44)
     - Cruciform Injection; Embryonic Testaments; Biomechanical Disintegration
 
@@ -9616,7 +9616,7 @@
      places and with a slightly different order on the versions of "The
      Wrong Name and the Wrong Number" found on "The Myths Collection Part
      Two [Compilation]" and "Pay It All Back Volume 2". The four samples
-     marked with * can only be found on these versions, at the times given,
+     marked with   can only be found on these versions, at the times given,
      and not on the original version.)
 
   "Storm The Studio" @ 0:01
@@ -9803,7 +9803,7 @@
    'Yeah, that's...that's a question.'" @ 0:00
     - Lord Gore; Breakfast At The Manchester Morgue; Autophagous Orgy, The
 
-* "Do you ever fantasize about being killed?." @ 0:37
+  "Do you ever fantasize about being killed?." @ 0:37
     - Terminally Your Aborted Ghost; Open Concave Chest Wounds;
       Perscribing The Fractured Forms
 
@@ -9943,12 +9943,12 @@
    'You must remember those words.'"
     - Doubting Thomas; Come in Piece; Infidel, The
 
-* "Just a minute. Ladies and gentlemen, I think something is happening." @ 3:15
+  "Just a minute. Ladies and gentlemen, I think something is happening." @ 3:15
     - Funki Porcini; What Are You Looking At?; Fast Asleep
 
-* "I would like to explain something of my mission." @ 0:23 (Note: Michael
+  "I would like to explain something of my mission." @ 0:23 (Note: Michael
    Rennie as Klaatu)
-* "How can you be so sure? Have you tested this theory?" @ 3:55 (Note: Sam
+  "How can you be so sure? Have you tested this theory?" @ 3:55 (Note: Sam
    Jaffe as Prof. Barnhardt)
     - Kubusschnitt; <Track 7???>; Christmas Box, The
 
@@ -10106,14 +10106,14 @@
   "There is only IBM, ITT, Union Carbide and Exxon" *
   "There is only one holistic system of systems. One vast and immane,
    interwoven, interactive, multivariate, multinational, dominion of
-   dollars." @ 3:40 * (Note: Ned Beatty)
+   dollars." @ 3:40   (Note: Ned Beatty)
   "Petro-dollars, electro-dollars, multi-dollars, reichmarks, rins, rubles,
    pounds, and shekels! It is the international system of currency which
    determines the vitality of life on this planet. That is the natural order
    of things today. That is the atomic and subatomic and galactic structure
-   of things today!" @ 4:09 * (Note: Ned Beatty)
+   of things today!" @ 4:09   (Note: Ned Beatty)
     - Snog; Corporate Slave; Remote Control
-    (Note: * = Original Mix, ** = Alpha 66 Mix)
+    (Note:   = Original Mix, *  = Alpha 66 Mix)
 
   "Punks are running wild in the street and nobody seems to know what to do
    and there's no end to it.  It's like everything ever where is going crazy
@@ -10244,7 +10244,7 @@
     - Void Construct; Critical Mass; Estramay Aleph
 
 90. Name of the Rose, The [46 points] (6 groups, 8 songs, 15 samples)
-* "Am Ende meines Lebens angekommen, möchte ich armer Sünder auf diesem
+  "Am Ende meines Lebens angekommen, möchte ich armer Sünder auf diesem
    Pergament Zeugnis ablegen." @ 0:13
     - Feindflug; Geständnis; Feindflug
 
@@ -10294,7 +10294,7 @@
   "Bist Du willens nunmehr dem Teufel abzuschwoeren?" *
   [Noises from chains]
   [Gregorian chants throughout the song]
-  (Note: * from the dubbed German version)
+  (Note:   from the dubbed German version)
     - Mikulic, Boris; Inspired by the Devil; Heresy
 
   [Gregorian chants throughout the song]
@@ -10406,7 +10406,7 @@
     - Melek-Tha; Sulfurik Vortex, The; Sulfurik Vortex, The
 
   "It requires several of your lifetimes to master our gifts. The idea that a
-   simple man could develop the ability to tune..." @ 0:07 * (Note: Mr. Book)
+   simple man could develop the ability to tune..." @ 0:07   (Note: Mr. Book)
   "'He said he is able to tune.'
    'Impossible!'
    'We have seen it with our own eyes!'" @ 0:15 (Note: Various aliens)
@@ -10765,37 +10765,37 @@
      mayor reads out loud a Dick Tracy comic strip for children during a
      newspaper deliverer's strike. The actual source can be found here:
      <http://www.archive.org/movies/movies-details-db.php?collection=prelinger&collectionid=05538>)
-* "What does it all mean?" @ 0:48 (Note: First occurance)
+  "What does it all mean?" @ 0:48 (Note: First occurance)
     - Cypress Hill; How I Could Just Kill A Man; Cypress Hill
 
-* "And say children, what does it all mean?" @ 2:25 (Note: Last part used at
+  "And say children, what does it all mean?" @ 2:25 (Note: Last part used at
    0:23 and repeatedly onwards)
     - De La Soul; Magic Number, The; 3 Feet High And Rising
 
-* "What does it all mean?" @ 2:40 (Note: First occurance)
+  "What does it all mean?" @ 2:40 (Note: First occurance)
     - DJ Jazzy Jeff & The Fresh Prince; Dumb Dancin'; Homebase
 
-* "What does it all mean?" @ 4:31
+  "What does it all mean?" @ 4:31
     - DJ Jazzy Jeff & The Fresh Prince; Just Rockin'; Rock The House
 
-* "And say children, what does it all mean?" @ 5:12
+  "And say children, what does it all mean?" @ 5:12
     - Double Dee & Steinski; Lesson 1 (12")
 
-* "And say children, what does it all mean?" @ 4:09
+  "And say children, what does it all mean?" @ 4:09
     - Double Dee & Steinski; Lesson 2 (12")
 
-* "And say children, what does it all mean?" @ 4:34
+  "And say children, what does it all mean?" @ 4:34
     - Double Dee & Steinski; Lesson 3 (12")
 
-* "What does it all mean?" @ 1:12 (Note: First occurance)
+  "What does it all mean?" @ 1:12 (Note: First occurance)
     - Gang Starr; Meaning Of The Name, The; Step In The Arena
 
-* "What does it all mean?" @ 0:40 (Note: First occurance)
+  "What does it all mean?" @ 0:40 (Note: First occurance)
     - Jean, Wyclef; Street Jeopardy; Carnival, The
 
 101. Akira [43 points] (6 groups, 7 songs, 15 samples)
-* "I wish you'd just go away and leave me alone." @ 0:19
-* "...go away and leave me alone" @ 4:15
+  "I wish you'd just go away and leave me alone." @ 0:19
+  "...go away and leave me alone" @ 4:15
     - Boole; Totally Alone; Pheromones
 
   [ambient music] @ 2:09, 3:40 (Note: 14-second excerpt taken from the
@@ -10894,7 +10894,7 @@
 
   "My Lord, help her!"
     - My Life with the Thrill Kill Kult; Blue Buddha; 13 Above the Night
-    (Note: * = Found on the Blue Buddha remix)
+    (Note:   = Found on the Blue Buddha remix)
 
   "Everybody has to die"
   "There can be happiness beyond death"
@@ -11058,7 +11058,7 @@
   [woman screaming] @ 2:53
     - Assemblage 23; 7 Days; Contempt
 
-* "[traffic noise]
+  "[traffic noise]
    'He's got my brain. He's got my... my brain. Fuck, shit,
     my brain! My fucking brain, goddamnit that shit.. face,
     fucking shit. My fucking... GOD! That's my fucking brain!'
@@ -11108,7 +11108,7 @@
   "..by perception of illusion..."
   "...reality..."
   "I know who you are."
-  "That's my brain! That's my brain! That's *my* brain!"
+  "That's my brain! That's my brain! That's *my  brain!"
     - Smothered Hope; Synaptic Circle; Harsh Media Reality
 
   "'That's my fucking brain!'
@@ -11286,10 +11286,10 @@
   "Don't be such a fucking chump! Stop deluding yourself!" @ 3:09, 3:22
     - Hocico; Twisted Lines; Signos De Aberracion
 
-* "I didn't want to be the only one!" @ 1:03, 1:24, 3:32 (Note: Barbara,
+  "I didn't want to be the only one!" @ 1:03, 1:24, 3:32 (Note: Barbara,
    crying, while being cross-examined on the stand)
-* "Is this game sexual in nature?" @ 1:15, 1:31, 3:23
-* "Is this game sexual in nature!?" @ 1:41, 3:41 (Note: The second time he
+  "Is this game sexual in nature?" @ 1:15, 1:31, 3:23
+  "Is this game sexual in nature!?" @ 1:41, 3:41 (Note: The second time he
    asks Barbara that question, he yells it)
     - Mimetic; Destructive; Sensitive/Sound A
 
@@ -11321,12 +11321,12 @@
   "Fuck you!" @ 0:22
   "Pussy control" @ 0:54
   "Get the..." @ 1:05
-* "That was my life experience." @ 1:27
+  "That was my life experience." @ 1:27
   "You're the 'Fuck-You Man' right?" @ 1:36
   "Suck my dick!" @ 1:47
   "This was it!" @ 2:19
   "Give it to me..." @ 2:41
-* "And it is the best you've had in your life, you come harder than
+  "And it is the best you've had in your life, you come harder than
    you've ever came." @ 2:52
     - Prophet, The; Life Experience; Thunderdome 5 (Compilation)
 
@@ -11440,7 +11440,7 @@
     (Note: The phrase "We are the music makers, and we are the dreamers
      of dreams" is quoted from Arthur O'Shaughnessy [1844-1881] and his
      poem 'Ode'. See <http://en.wikipedia.org/wiki/Arthur_O%27Shaughnessy>.)
-* "We are the music makers, and we are the dreamers of dreams." @ 1:28, 3:44
+  "We are the music makers, and we are the dreamers of dreams." @ 1:28, 3:44
     - 808 State; Nephatiti; Ex:El
 
   "We are the music makers, and we are the dreamers of dreams." @ 0:00
@@ -11611,7 +11611,7 @@
      albums 'Kill to Cure' and 'Fractal Zoom')
 
 119. Pi [37 points] (6 groups, 7 songs, 9 samples)
-* "My guess is that, uh... certain problems cause computers to get stuck in a
+  "My guess is that, uh... certain problems cause computers to get stuck in a
    particular loop. The loop leads to meltdown, but just before the crash, they
    become aware of their own structure." @ 1:30 (Note: Spoken by actor Mark
    Margolis. Sample is slightly slowed down. The last part "Structure" is used
@@ -11638,7 +11638,7 @@
    me" and "changing me" repeated a few times aswell.)
     - Manufactura; Killing You; Regression
 
-* "When I was a kid, my mother told me not to stare into the sun. So once, when
+  "When I was a kid, my mother told me not to stare into the sun. So once, when
    I was 6, I did. " @ 1:20
     - Retrosic, The; Scream;
       God of Hell 3CD (+ Servant of Hell + Rarities Collection)
@@ -12303,21 +12303,21 @@
    you understand?" @ 1:04, 4:38, 6:30 (Note: Baby whining in background)
     - Deutsch Nepal; Gouge Free Market; Comprendido Time Stop
 
-* "If you look in the mirror, and say his name 5 times, he'll appear behind
+  "If you look in the mirror, and say his name 5 times, he'll appear behind
    you, breathing down your neck" @ 0:04, 3:03
-* "Candyman, Candyman, Candyman, Candyman.... Candyman" @ 0:09
-* "'I hear you looking for Candyman, bitch. You found him'
+  "Candyman, Candyman, Candyman, Candyman.... Candyman" @ 0:09
+  "'I hear you looking for Candyman, bitch. You found him'
    'Ughh'" @ 0:22, 1:05, 3:22
-* [Scream] @ 1:08 (Note: Repeated several times)
-* "Come with me, and be immortal" @ 1:28
-* "Who is that?" @ 1:32, 1:36, 2:38
-* "Candyman, bitch" @ 1:34
-* "Helen, I came for you." @ 1:37, 2:40
-* "You're mine now." @ 1:41, 2:46
-* "Be my victim." @ 1:44
-* "Candyman country." @ 2:27
-* "Hmm, you do know the story don't you?." @ 2:29
-* "Where they proceded too saw of his right hand with a rusty blade." @ 2:31
+  [Scream] @ 1:08 (Note: Repeated several times)
+  "Come with me, and be immortal" @ 1:28
+  "Who is that?" @ 1:32, 1:36, 2:38
+  "Candyman, bitch" @ 1:34
+  "Helen, I came for you." @ 1:37, 2:40
+  "You're mine now." @ 1:41, 2:46
+  "Be my victim." @ 1:44
+  "Candyman country." @ 2:27
+  "Hmm, you do know the story don't you?." @ 2:29
+  "Where they proceded too saw of his right hand with a rusty blade." @ 2:31
     - Internal Error; Candyman; Party Madness EP
 
   "Fürchtest du den Schmerz oder das, was danach kommt? Der Schmerz wird von
@@ -12367,26 +12367,26 @@
      identified more exactly stating from which cartoon episode the sample
      come from. See <http://en.wikipedia.org/wiki/Looney_Tunes_%26_Merrie_Melodies_filmography>
      for a list of all episodes.)
-* "What's up, doc?" @ 3:03 (Note: Bugs Bunny)
+  "What's up, doc?" @ 3:03 (Note: Bugs Bunny)
     - DJ Jazzy Jeff & The Fresh Prince; Dumb Dancin'; Homebase
 
-* "Allow me to introduce myself. My name is..." @ 1:00 (Note: Wile E. Coyote)
+  "Allow me to introduce myself. My name is..." @ 1:00 (Note: Wile E. Coyote)
     - DJ Luna-C; Introducing...; Project X - 11 Reasons Why
 
-* "I thought I saw a pussycat." @ 1:06 (Note: Tweety)
-* "What's up, doc?" @ 2:23 (Note: Bugs Bunny)
+  "I thought I saw a pussycat." @ 1:06 (Note: Tweety)
+  "What's up, doc?" @ 2:23 (Note: Bugs Bunny)
     - Double Dee & Steinski; Lesson 2 (12")
 
-* "It's a nice place to visit, but I wouldn't wanna live
+  "It's a nice place to visit, but I wouldn't wanna live
    here." @ 3:00 (Note: Bugs Bunny)
     - Ice Cube; Gangsta's Fairytale, A; AmeriKKKa's Most Wanted
 
-* "Hold it. I ain't pushing no moon buttons." @ 2:46
-* "Are you the big <???>"  @ 3:45
-* "Don't be widiculous." @ 3:50
-* "Who, me?" @ 3:54
-* "That's all folks!" @ 5:14
-* "[sound of a bucket being kicked]
+  "Hold it. I ain't pushing no moon buttons." @ 2:46
+  "Are you the big <???>"  @ 3:45
+  "Don't be widiculous." @ 3:50
+  "Who, me?" @ 3:54
+  "That's all folks!" @ 5:14
+  "[sound of a bucket being kicked]
    'Wheeey! The wabbit kicked the bucket!'
    [music starts]
    'The rabbit kicked the bucket,
@@ -12602,26 +12602,26 @@
   "Isn't that just brilliant?" @ 2:28
     - Crackhead; Alpha State Sales Pitch; Poo Gazer volume 1: Cat Scat Fever
 
-* "What are you doing here?" @ 0:31
-* "You were supposed to mess with his head." @ 1:29
-* "What do you mean you can't reprogram?" @ 0:50
-* [gunshots and a woman screams] @ 1:16
+  "What are you doing here?" @ 0:31
+  "You were supposed to mess with his head." @ 1:29
+  "What do you mean you can't reprogram?" @ 0:50
+  [gunshots and a woman screams] @ 1:16
   (Note: All samples repeated throughout the track. All samples from
    episode "A Last Time For Everything," Season 3-Episode 3, a.k.a. The
    Cloning episode.)
     - Death Ride 69; Razor Girl Machine, The; Screaming Down the Gravity Well
 
-* "What are you doing here?" @ 0:30
-* "What do you mean you can't reprogram?" @ 0:48
+  "What are you doing here?" @ 0:30
+  "What do you mean you can't reprogram?" @ 0:48
   (Note: All samples repeated throughout the track. All samples from
    episode "A Last Time For Everything," Season 3-Episode 3, a.k.a. The
    Cloning episode.)
     - Death Ride 69; First Contact; Screaming Down the Gravity Well
 
-* [gunshots and a woman screaming] @ 1:17 (Note: Samples repeated throughout
+  [gunshots and a woman screaming] @ 1:17 (Note: Samples repeated throughout
    the song in every chorus loop)
-* "What are you doing here?" @ 2:19, 2:21, 2:23
-* "You were supposed to mess with his head." @ 2:25
+  "What are you doing here?" @ 2:19, 2:21, 2:23
+  "You were supposed to mess with his head." @ 2:25
   (Note: All samples from episode "A Last Time For Everything," Season 3-
    Episode 3, a.k.a. The Cloning episode. Same samples used in "The Razor Girl
    Machine.")
@@ -12632,7 +12632,7 @@
     - Manhole Vortex; Superhuman Machines; Electro-Cution
 
 142. Conan the Barbarian [31 points] (3 groups, 5 songs, 15 samples)
-* "The wizard...." @ 0:00
+  "The wizard...." @ 0:00
     - Electric Wizard; Barbarian; Dopethrone
 
   "I wish to speak to you now." @ 0:20
@@ -12779,7 +12779,7 @@
   "'I want the truth!'
    'You can't handle the truth!'" @ 0:17
   "You don't want the truth because deep down in places you don't talk about it
-   at parties. You *want* me on that wall! You *need* me on that wall!" @ 0:21
+   at parties. You *want  me on that wall! You *need  me on that wall!" @ 0:21
   "'Did you order the code red?'
    'I did the job...'
    'Did you order the code red?!'
@@ -13086,7 +13086,7 @@
     - Overlords, The; Seven Year Hitch, The; Midnight At The Grooveyard II
 
 157. Split Second [29 points] (4 groups, 4 songs, 14 samples)
-  "'There's some *thing* running around loose in this city, ripping the hearts
+  "'There's some *thing  running around loose in this city, ripping the hearts
     out of people and eating them, so he can take their souls back to hell?'
    'Looks that way.'" @ 0:03
   "...who looks like the devil and answers to the name of Lucifer?" @ 2:20
@@ -13465,7 +13465,7 @@
     - Rob Zombie; Meet the Creeper; Hellbilly Deluxe
 
 169. Kalifornia [27 points] (4 groups, 5 songs, 9 samples)
-* "When you dream there are no rules. People can fly, anything can happen.
+  "When you dream there are no rules. People can fly, anything can happen.
    Sometimes, there's a moment as you're waking when you become aware of the
    real world around you, but you're still dreaming. You may think you can
    fly, but you better not try it." @ 4:10
@@ -13483,7 +13483,7 @@
   "You may think you can fly, but you'd better not try it."
     - Astral Projection; Still Dreaming; Trust in Trance 3
 
-* "Errrh, ahh Skynnard. Lynnard Skynard." @ 0:00
+  "Errrh, ahh Skynnard. Lynnard Skynard." @ 0:00
     - Blood Duster; Simple Life, The; Str8 Outta Northcote
 
   "She was pissed at him. She beat the shit out of him, locked him in here
@@ -13527,10 +13527,10 @@
    grunting by actor Cole Hauser)
     - Haujobb; Renegades of Noize; Vertical Theory
 
-* [Metal klank followed by computer bleeps and mechanical sounds] @ 0:00 (Note:
+  [Metal klank followed by computer bleeps and mechanical sounds] @ 0:00 (Note:
    Taken from the scene where the young Islamic pilgrim walks around the Coring
    Room as it powers up)
-* [Breathing] @ 0:08 (Note: Sample is manipulated to match the beat of the
+  [Breathing] @ 0:08 (Note: Sample is manipulated to match the beat of the
    song.)
     - Haujobb; Platform; Vertical Theory
 
@@ -13538,7 +13538,7 @@
     - Static Engine; Low and Falling Fast; Submolecular
 
 169. Wizard of Gore, The [27 points] (4 groups, 5 songs, 9 samples)
-* "But, ladies and gentlemen, have you ever seen the sight of human butchery in
+  "But, ladies and gentlemen, have you ever seen the sight of human butchery in
    person?" @ 0:00
     - Blood Freak; Bloodthirsty Butchers From Beyond; Sleaze Merchants
 
@@ -13587,7 +13587,7 @@
   [Frank Zito moaning]
     - Doubting Thomas; Whitewax; Infidel, The
 
-* "Your terror is unreal because the horror is insane. It's your turn to
+  "Your terror is unreal because the horror is insane. It's your turn to
    experience the Maniac. There is nowhere to run. And no time to pray!
    Maniac!" @ 0:00 (Note: This comes from preview of the movie, spoken by a
    voice-over)
@@ -13616,9 +13616,9 @@
    that way. Please. They'll take you away from me." @ 1:48
     - Skinny Puppy; Tear or Beat; Cleanse, Fold and Manipulate
 
-* [Frank Zito moaning] @ 3:13
-* "Miss me?" @ 3:22
-* "I told you not to go out tonight, didn't I? Everytime you go out, this kind
+  [Frank Zito moaning] @ 3:13
+  "Miss me?" @ 3:22
+  "I told you not to go out tonight, didn't I? Everytime you go out, this kind
    of thing happens. This has got to stop. It's silly. And it's not getting us
    anywhere. You think they don't know. They do. I heard it and I know. They
    all know, and I don't like it anymore. But you don't listen, do you? It's
@@ -13911,7 +13911,7 @@
   "God the one, two, three." @ 6:00
   "The High-Voltage Messiah!" *
     - My Life with the Thrill Kill Kult; Blue Buddha; 13 Above the Night
-    (Note: * = Found on the Blue Buddha remix)
+    (Note:   = Found on the Blue Buddha remix)
 
   "You are not God." @ 2:40 (Note: Repeated five times)
     - My Life with the Thrill Kill Kult; Do You Fear (The Inferno Express?);
@@ -14051,7 +14051,7 @@
   "Can you hear me?"
     - Revolting Cocks; Crackin' Up; Linger Ficken' Good
 
-* "'What about the Berserkers?'
+  "'What about the Berserkers?'
    'Madness, they're uncontrolable!'
    'Better yet! Let them out!'" @ 0:39, 1:23, 1:46, 2:42, 5:41
     - Salmonelli, Tony; Once Again (Original Mix); Tony Salmonelli's Bzrk EP
@@ -14081,7 +14081,7 @@
    renewing its electrical structure one microsecond at a time "
     - Pressurehed; Wired for Sound (Asphyxiation Mix); Infadrone
 
-* "'How soon will radar be operational?'
+  "'How soon will radar be operational?'
    'Operating right now, sir.'
    'Good, you keep right on it yourself.'
    'Aye aye, sir.'
@@ -14410,11 +14410,11 @@
   "Where's my torpedo?" @ 0:20 (Note: Spoken by Kirk, distorted)
     - Circle of Dust; Regressor (Aggressive Mix); Brainchild
 
-* "If there is to be a brave new world, our generation is going to have the
+  "If there is to be a brave new world, our generation is going to have the
    hardest time living in it!" @ 2:25
     - Mentallo & The Fixer; Gargantua; Where Angels Fear To Tread
 
-* "If there is to be a brave new world, our generation is going to have the
+  "If there is to be a brave new world, our generation is going to have the
    hardest time living in it!" @ 0:00, 0:16 (Note: First part of sample also
    used at 6:27)
     - Mentallo & The Fixer; Decomposed (Trampled); Where Angels Fear To Tread
@@ -14753,7 +14753,7 @@
   "They strip her, beat her, maul her, mistreat her." *
   "She sucks it, fucks it, picks it up, and licks it." *
     - Malhavoc; S.C.E.X.; Release, The
-    (Note: * = XXX Rated Version)
+    (Note:   = XXX Rated Version)
 
   "She <???> she <???> she crawls she bends... she sucks it, fucks it, picks
    it up and licks it. <???> equipment beaten <???> mistreated. Anything he
@@ -15020,7 +15020,7 @@
     - Wumpscut; Christfuck; Wreath of Barbs
 
 224. Reefer Madness [20 points] (4 groups, 4 songs, 5 samples)
-* "Marijuana: the dried leaves and flowers of the Indian hemp weed is used in
+  "Marijuana: the dried leaves and flowers of the Indian hemp weed is used in
    the form of a cigarette. Should you ever be confronted with the temptation
    of taking that first puff of a marijuana cigarette, do it!" @ 1:55 (Note:
    Altered from the original sample: "Don't do it!")
@@ -15216,15 +15216,15 @@
    snakes." @ 2:49
     - Atmosphere; Bird Sings Why The Caged I Know; Seven's Travels
 
-* "'Excuse me, Milius. If you don't mind I'd like you to meet a friend of
+  "'Excuse me, Milius. If you don't mind I'd like you to meet a friend of
     mine.'
    'Fraulein.' (Note: Milius/Rudolf Schundler)
    'She's interested in your favourite subject - witches. Can you tell her
     something about the mysterious?'" @ 0:07
-* "What would you like to know?" @ 0:52 (Note: Milius)
-* "They were kind of wild ideas." @ 1:46
-* "Well that really got Sara's imagination." @ 2:40
-* "'Do you believe in the existence of witches?'
+  "What would you like to know?" @ 0:52 (Note: Milius)
+  "They were kind of wild ideas." @ 1:46
+  "Well that really got Sara's imagination." @ 2:40
+  "'Do you believe in the existence of witches?'
    'I have known some women who are said to be witches.' (Note: Milius)
    'Really?'
    'I have studied the phenomenon for a long time. I'm of the opion that
@@ -15232,9 +15232,9 @@
     sceptical.' (Note: Milius)
    'Well, frankly, it is a little hard to believe.'
    'What do witches do?'" @ 4:00
-* "What does it mean to be a witch?" @ 5:23
-* "That's all there is, as far as witchcraft is concerned." @ 6:47
-* "Well, I have to go." @ 6:59
+  "What does it mean to be a witch?" @ 5:23
+  "That's all there is, as far as witchcraft is concerned." @ 6:47
+  "Well, I have to go." @ 6:59
     - Frequency Surfer; Suspiria; Respect
 
   "Stop it!"
@@ -15244,7 +15244,7 @@
     - Mortician; Witches' Coven; Hacked Up For Barbecue
 
 224. Bad Taste [20 points] (2 groups, 5 songs, 6 samples)
-* "'Exquisite bouquet Robert'
+  "'Exquisite bouquet Robert'
    [slurping]
    'Aren't I lucky I got a chunky bit arrruuuu'" @ 0:00
     - Blood Duster; Intro (Track 20); Yeest
@@ -15254,13 +15254,13 @@
    'Can't do that!  I'm a Derek.  Dereks don't run.'" @ 0:00
     - Blood Duster; Intro (Track 31); Yeest
 
-* "'Christ! You'll never believe what I just had to do.'
+  "'Christ! You'll never believe what I just had to do.'
    'Ummm, did you have to drink some chuck?'
    [sound of swallowing]
    'Ewwwww'" @ 0:00
     - Blood Duster; Chuck; Yeest
 
-* "[sound of chainsaw cutting through alien head and door]
+  "[sound of chainsaw cutting through alien head and door]
    'Good one'
    'Ooooo!'
    'Derek!'
@@ -15313,7 +15313,7 @@
     - Pop Will Eat Itself; Another Man's Rhubarb; PWEI Cure for Sanity, The
 
 235. Cannibal Ferox [19 points] (4 groups, 4 songs, 4 samples)
-* "Get off my case, motherfucker." @ 2:42
+  "Get off my case, motherfucker." @ 2:42
     - Electric Wizard; Return Trip; Come My Fanatics....
 
   "'No! No! Please! [screams and cannibals chanting]'
@@ -15485,7 +15485,7 @@
   "I just can't take no pleasure in killing."
     - Scapa Flow; Shell of Sanity; Heads Off to Freedom
 
-* "I see things. You see, they say it's just an old man... talking. You laugh
+  "I see things. You see, they say it's just an old man... talking. You laugh
    at an old man. It's them that laughs and knows better. [laughter]" @ 2:26
     - Skinny Puppy; Blood on the Wall; Bites
 
@@ -15554,20 +15554,20 @@
 235. Dragnet [19 points] (2 groups, 2 songs, 14 samples)
   "The story (in which you are about to participate) is true." *
   "Dragnet!" *
-  "I carry a badge." * (Note: Dan Aykroyd)
-  "My name is Friday." * (Note: Dan Aykroyd)
-  "Just the facts, ma'm!" * (Note: Dan Aykroyd)
-  "Almost never." * (Note: Dan Aykroyd)
+  "I carry a badge."   (Note: Dan Aykroyd)
+  "My name is Friday."   (Note: Dan Aykroyd)
+  "Just the facts, ma'm!"   (Note: Dan Aykroyd)
+  "Almost never."   (Note: Dan Aykroyd)
   "You've got a lot of repressed feelings, don't you, Friday? Must be what
-   keeps your hair up." * (Note: Tom Hanks)
-  "Thank God, it's Friday" * (Note: Tom Hanks)
+   keeps your hair up."   (Note: Tom Hanks)
+  "Thank God, it's Friday"   (Note: Tom Hanks)
   "I've gonna have to change this piece, lets stop it for a second"
   "Their job: To enforce the law!"
   "I hate this, Streebeck!"
   "I hate you, Streebeck!"
   "Police officers, ma'm!"
     - Art of Noise, The; Dragnet; Dragnet (12")
-    (Note: * = Found on "Dragnet '88" appearing on the album "The Best of The
+    (Note:   = Found on "Dragnet '88" appearing on the album "The Best of The
      Art of Noise")
 
   "OK, I'm gonna have to change <???>, let's stop it for a second."
@@ -15670,7 +15670,7 @@
   "Understanding the human mind." @ 3:47
     - Front Line Assembly; Vigilante; Millennium
 
-* "'A whole crowd is easier to control than an individual. A crowd has a common
+  "'A whole crowd is easier to control than an individual. A crowd has a common
     purpose, while the purpose of the individual is always... in question.'
    'That's what you're trying to eliminate, isn't it?  Everything that makes
     one human being different from another... but you'll never, never reach a
@@ -15679,7 +15679,7 @@
     it?'" @ 0:43
     - Stromkern; A Step Away From...; Dämmerung Im Traum
 
-* "'And what will you say when the great, faceless mask comes calling...
+  "'And what will you say when the great, faceless mask comes calling...
     on its own initiative? What will you say to that?'
    'You and I have nothing in common.'" @ 0:00
     - Stromkern; Paradise; Dämmerung Im Traum
@@ -15923,7 +15923,7 @@
     - Radioactive Goldfish; What the Hell; Rhythm and Rave
 
   "Badges? We don't need no stinking badges!" (Note: According to the
-   rec.arts.movies.* FAQ this quote originally comes from the movie
+   rec.arts.movies.  FAQ this quote originally comes from the movie
    <{Treasure of the Sierra Madre, The}> and it is satirized in
    <{Blazing Saddles}>)
     - Skinny Puppy; Addiction (Dog House Mix);
@@ -16089,7 +16089,7 @@
 259. Naked [17 points] (2 groups, 2 songs, 12 samples)
     (Note: Directed by Mike Leigh, 1993. Main character Johnny played by
      David Thewlis)
-* "'Would you undo your fly Sebastian?'
+  "'Would you undo your fly Sebastian?'
    'Would you like me to?'
    [sound of a creaking chair and a zip being zipped]
    'What, you don’t want me to slice your prick off and shove it up your arse?'
@@ -16227,7 +16227,7 @@
     - My Life with the Thrill Kill Kult; Nervous Xians; Kooler than Jesus
 
 275. Boyz 'N The Hood [16 points] (3 groups, 3 songs, 6 samples)
-* "'Woo'
+  "'Woo'
    'You got some blow? You got some rock? I’ll suck your dick'" @ 0:00
     - Blood Duster; Fuckyousceneboy; Cunt
 
@@ -16334,7 +16334,7 @@
   "Unbelievable technology" @ 7:18
     - Astral Projection; Tryptomine Dream; Another World
 
-* "Alert! Intruder!" @ 0:00 (Note: Loops repeatedly throught the track.)
+  "Alert! Intruder!" @ 0:00 (Note: Loops repeatedly throught the track.)
     - CombiChrist; Intruder Alert; Joy Of Gunz, The
 
   "He is the one"
@@ -16394,7 +16394,7 @@
     - Divine Misfire; Becoming Gradually Unhinged; Black Market Scholar
 
 275. For All Mankind (Documentary) [16 points] (2 groups, 3 songs, 8 samples)
-* "Do you really know where you are at this point in time and space, and in
+  "Do you really know where you are at this point in time and space, and in
    reality and in existence? When you look out the window and you're looking
    back at the most beautiful star in the heavens - the most beautiful because
    it's the one we understand, and we know: it's our home, it's humanity, it's
@@ -16404,16 +16404,16 @@
    beyond conception." @ 0:08
     - Funki Porcini; What Are You Looking At?; Fast Asleep
 
-* "T-Minus 15-14-13-12-11-10-9- engines on 5-4-3-2- Launch Commit..."
-* "Retro - go! Fido - go! Guidance - go! Telcom - go! G&C - go! EECOM - go!
+  "T-Minus 15-14-13-12-11-10-9- engines on 5-4-3-2- Launch Commit..."
+  "Retro - go! Fido - go! Guidance - go! Telcom - go! G&C - go! EECOM - go!
    Surgeon - go!" @ 9:38 (Note: From Apollo 11 moon landing)
     - Orb, The; Earth (Gaia); Orb's Adventures Beyond the Ultraworld, The
 
-* "The astronauts report it feels good" @ 0:31 (Note: Apollo 11 Launch)
-* "We will have the, uh, translunar injection burn" @ 1:03
-* "On the LEM ascent back into lunar orbit..." @ 1:11 (Note: Apollo 17)
-* "Tranquility base, Houston" @ 5:10 (Note: Apollo 11)
-* "...we're on the backside of the moon, they'll never know..." @ 7:52 (Note:
+  "The astronauts report it feels good" @ 0:31 (Note: Apollo 11 Launch)
+  "We will have the, uh, translunar injection burn" @ 1:03
+  "On the LEM ascent back into lunar orbit..." @ 1:11 (Note: Apollo 17)
+  "Tranquility base, Houston" @ 5:10 (Note: Apollo 11)
+  "...we're on the backside of the moon, they'll never know..." @ 7:52 (Note:
    Astronaut Alan Bean, talking about when Pete Conrad let him fly the LEM
    when they were out of contact with houston)
   (Note: All samples played repeatedly throughout track)
@@ -16645,7 +16645,7 @@
    architects of our own existence." @ 0:21
     - Arzt+Pfusch; Arzt+Pfusch; Warum?
 
-* "Hey piss off outta the way mate I gotta cut this tree down. Hey! You fuckin'
+  "Hey piss off outta the way mate I gotta cut this tree down. Hey! You fuckin'
    deaf. You're a queer looking rooster aren't you? What, are you fuckin' one
    of them greenies eh? Come on. Fuck off I'll cut ya prick off. Fuckin' idiot.
    Go on. Get out of it. [sound of chainsaw]" @ 0:00
@@ -16879,8 +16879,8 @@
     - Skatenigs; Fight Da Suckas; Stupid People Shouldn't Breed
 
 303. Clay, Andrew Dice (Comedian) [14 points] (3 groups, 3 songs, 4 samples)
-* "Oooohw" @ 0:00, 0:43, 1:20, 2:35, 3:13
-* "It's unbelievable" @ 1:56, 3:10
+  "Oooohw" @ 0:00, 0:43, 1:20, 2:35, 3:13
+  "It's unbelievable" @ 1:56, 3:10
     - EMF; Unbelievable; Schubert Dip
 
   "Yeah, good old Mother Goose, remember her? I fucked her." @ 3:11 (Note:
@@ -17065,7 +17065,7 @@
     - Spice Girls, The; Naked; Spice
 
 318. Blood Sucking Freaks [13 points] (3 groups, 3 songs, 3 samples)
-* "[sounds of a woman in pain] Have you finished the riot now Rufus? Put her to
+  "[sounds of a woman in pain] Have you finished the riot now Rufus? Put her to
    work in the toilet, her mouth will make an interesting urinal." @ 0:00
     - Blood Duster; Intro (Track 24); Yeest
 
@@ -17078,7 +17078,7 @@
     - Gut; Cunt Catheter; Odour of Torture
 
 318. Bundy, Ted (Killer) [13 points] (3 groups, 3 songs, 3 samples)
-* "While the victim was in her bed was stripped of her nightclothing,
+  "While the victim was in her bed was stripped of her nightclothing,
    one nipple was incised and bit off. There was evidence of vaginal
    and anal trauma.  And she was left in a pool of blood in her own
    bed." @ 0:00 (Note: Spoken by a member of the Prosecution during one
@@ -17177,7 +17177,7 @@
     - Pink Flamingos; Sink Down In Chaos; Crippled Silence
 
 318. Let Sleeping Corpses Lie [13 points] (3 groups, 3 songs, 3 samples)
-* "'You're all the same, the lot of you, with your long hair and faggot
+  "'You're all the same, the lot of you, with your long hair and faggot
     clothes. Drugs, sex, every sort of filth. And you hate the police, don't
     you?'
    'You make it easy.'" @ 0:00
@@ -17185,7 +17185,7 @@
     (Note: This sample has been deleted from the two-disc re-release of the
      album.)
 
-* "'They... they are dead aren't they?'
+  "'They... they are dead aren't they?'
    'Shyeah, but don't ask me cuz I'm the hobbyist. Christ only knows what
     brought them back to life.'
    [humming]
@@ -17212,7 +17212,7 @@
    'It won't hold very long. We got to find a way to defend ourselves!'" @ 0:00
     - Impetigo; Breakfast At The Manchester Morgue; Horror Of The Zombies
 
-* "You're all the same the lot of you, with your long hair and faggot clothes,
+  "You're all the same the lot of you, with your long hair and faggot clothes,
    drugs, sex, ever sort of filth. And you hate the police, don't you?" @ 0:00
     - Phobia; Rotten To The Core; Resist and Exist
 
@@ -17576,7 +17576,7 @@
     - Rasmus; Peaktime; Mass Hysteria
 
 344. Trick or Treat [12 points] (2 groups, 3 songs, 4 samples)
-* "Wake up sleepy-heads. Iiiiits party time! Yeah! This is the old newster
+  "Wake up sleepy-heads. Iiiiits party time! Yeah! This is the old newster
    coming at ya right here on this fine fine rocktober morning. It's the
    sweeping sensation thats sweeping the nation and I'm gonna do it do ya
    right here, right now, wow!" @ 0:00
@@ -17791,7 +17791,7 @@
   "Blood has no nationality" @ 2:02
     - Mimetic; Destructive; Sensitive/Sound A
 
-* "I only lent you my body, you lent me your dream" @ 0:00
+  "I only lent you my body, you lent me your dream" @ 0:00
     - Pride and Fall; Untitled; Nephesh
     (Note: The "hidden" track 99)
 
@@ -17822,7 +17822,7 @@
   "Tea break!... All right!... Here, you get it inside"
     - Big Audio Dynamite; Champagne; Tighten Vol. 88
 
-* "'May I bring you up to date? We’re living in the twentieth century, not in
+  "'May I bring you up to date? We’re living in the twentieth century, not in
     the eighteenth.'
    'May I bring you up to date, sir? We are not alive at all.'" @ 0:00 (Note:
     The sentence "May I bring you up to date?" is also used at 3:01 followed by
@@ -17941,7 +17941,7 @@
       I See Good Spirits, and I See Bad Spirits
 
 355. Kinski, Klaus (Actor) [11 points] (2 groups, 2 songs, 6 samples)
-* "Ich bin nicht der offizielle Kirchen-Jesus. Ich bin nicht euer
+  "Ich bin nicht der offizielle Kirchen-Jesus. Ich bin nicht euer
    Super-star!" @ 1:26 (Note: Repeated several times. Translated to english: "I
    am not the official Church-Jesus. I am not your superstar!". The original
    source, i.e. from which movie, has not been identified. If someone knows,
@@ -17984,24 +17984,24 @@
     - Explosions In The Sky; Have You Passed Through This Night;
       Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever
 
-* "Does our world benefit the earth? Does it help the grass to grow or the
+  "Does our world benefit the earth? Does it help the grass to grow or the
    sun to shine? Is this darkness in you too? Have you passed through this
    night?" @ 1:34
-* "Where you're going, you're not coming back from" @ 1:59
-* "This great evil? Where's it come from? How did it steal into the world?
+  "Where you're going, you're not coming back from" @ 1:59
+  "This great evil? Where's it come from? How did it steal into the world?
    Who's doing this? Who's killing us? Mocking us with the sight of what we
    might have known." @ 3:09 (Note: Original line from the movies goes "This
    great evil? Where's it come from? How did it steal into the world? From what
    seed, what root did it spring? Who's doing this? Who's killing us? Robbing
    us of light and life. Mocking us with the sight of what we might have
    known.")
-* "Are you righteous? Kind? Does your confidence lie in this? Are you loved by
+  "Are you righteous? Kind? Does your confidence lie in this? Are you loved by
    all? Do you imagine your suffering will be any less because you loved
    goodness and truth?" @ 4:45 (Note: Original line from movie goes: "Are you
    righteous? Kind? Does your confidence lie in this? Are you loved by all?
    Know that I was, too. Do you imagine your suffering will be any less
    because you loved goodness and truth?")
-* "What are you to me?" @ 5:44
+  "What are you to me?" @ 5:44
     - U.N.K.L.E.; Eye For An Eye; Never, Never, Land
 
 355. Fire Birds [11 points] (1 group, 3 songs, 5 samples)
@@ -18385,7 +18385,7 @@
 
   "A sweet service of DELIGHT!"
     - My Life with the Thrill Kill Kult; Blue Buddha; 13 Above the Night
-    (Note: * = Found on the Blue Buddha remix)
+    (Note:   = Found on the Blue Buddha remix)
 
 381. Fireman Sam (Animation) [10 points] (1 group, 3 songs, 4 samples)
   "We've found Bentley's control tape!" @ 0:00
@@ -18653,7 +18653,7 @@
    of the agony of Hell!" *
   "We must <???> to the torture chamber, quickly!" *
   (Note: All samples can also be found on the extended version of
-   Father Don't Cry. * = samples only found on the extended version.)
+   Father Don't Cry.   = samples only found on the extended version.)
     - Doubting Thomas; Father Don't Cry; Infidel, The
 
 395. Carrie [9 points] (2 groups, 2 songs, 4 samples)
@@ -18667,16 +18667,16 @@
     - Legendary Pink Dots; Lust For Powder (Version Apocalypse);
       Under Triple Moons
 
-* "'Mom? Momma? Mom? Everyon's dead, momma. They laughed at me. Hold me, momma.
+  "'Mom? Momma? Mom? Everyon's dead, momma. They laughed at me. Hold me, momma.
     Please hold me.'
    'I should've killed myself when he put it in me. After the first time,
     before we were married, Ralph promised never again. He promised, and I
     believed him. But sin never dies. Sin never dies. At first, it was all
     right. We lived sinlessly. We slept in the same bed, but we never did it.
     And then, that night, I saw him looking down at me that way." @ 0:00
-* "I should've given you to God when you were born, but I was weak and
+  "I should've given you to God when you were born, but I was weak and
    backsliding, and now the devil has come home." @ 1:59
-* "...and I liked it. I liked it!" @ 2:15
+  "...and I liked it. I liked it!" @ 2:15
     - Today is the Day; Mankind; Temple of the Morning Star
 
 395. Coffy [9 points] (2 groups, 2 songs, 4 samples)
@@ -18784,7 +18784,7 @@
 395. Bride, The [9 points] (1 group, 3 songs, 3 samples)
   "I created your body just as I created your mind."
     - My Life with the Thrill Kill Kult; Blue Buddha; 13 Above the Night
-    (Note: * = Found on the Blue Buddha remix)
+    (Note:   = Found on the Blue Buddha remix)
 
   "I created your body, just as I created your mind."
     - My Life with the Thrill Kill Kult; These Remains;
@@ -18929,7 +18929,7 @@
 420. Beetlejuice [8 points] (2 groups, 2 songs, 3 samples)
   "Oooo! This is heavy!" *
     - Malhavoc; S.C.E.X.; Release, The
-    (Note: * = XXX Rated Version)
+    (Note:   = XXX Rated Version)
 
   "It's showtime!"
   "Get up! - Put your suit on"
@@ -19059,17 +19059,17 @@
     - Boogie Down Productions; Illegal Business; By All Means Necessary
 
 420. Fellowship Of The Ring, The [8 points] (2 groups, 2 songs, 3 samples)
-* "This is the one ring, forged by the dark lord Sauron in the fires of Mount
+  "This is the one ring, forged by the dark lord Sauron in the fires of Mount
    Doom, taken by Isildur from the hand of Sauron himself." @ 4:18, 7:54 (Note:
    Ian McKellen as Gandalf. Partly used at 4:54)
-* "The ring has awoken. It's heard its master." @ 5:10 (Note: Ian McKellen)
+  "The ring has awoken. It's heard its master." @ 5:10 (Note: Ian McKellen)
     - Alien Project; Ring, The; Aztechno Dream
 
   "The world has changed" @ 0:27, 0:37, 5:20
     - Implant; Saddle Up; Horseback Riding Through Bassfields
 
 420. Fist Of The North Star [8 points] (2 groups, 2 songs, 3 samples)
-* "It's all mine, and your woman too." @ 1:36, 3:32, 5:17, 5:40, 6:03
+  "It's all mine, and your woman too." @ 1:36, 3:32, 5:17, 5:40, 6:03
     - Cujo; Northstar; Adventures in Foam
 
   "Aaaaaa-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-taaaaa!" @ 1:57 (Note: Kenshiro's
@@ -19078,7 +19078,7 @@
     - Genaside II; Basic Killer Instinct; New Life 4 The Hunted
 
 420. Fog, The [8 points] (2 groups, 2 songs, 3 samples)
-* "[ghost ship drops anchor]
+  "[ghost ship drops anchor]
    'It's gone.'
    'Hey.'
    'There was just a ship out there.'
@@ -19090,10 +19090,10 @@
    [ghosts kill fishermen]" @ 0:00
     - Mortician; Fog of Death; Hacked Up for Barbecue
 
-* "Suddenly, out of the night, the fog rolled in. For a moment they could see
+  "Suddenly, out of the night, the fog rolled in. For a moment they could see
    nothing. Not a foot ahead of them. And then they saw a light. By God it was
    a fire burning on the shore." @ 4:09
-* "...something in the fog!" @ 4:36
+  "...something in the fog!" @ 4:36
     - Necrophagia; Fog, The; Goblins Be Thine
 
 420. Foxx, Redd (Comedian) [8 points] (2 groups, 2 songs, 3 samples)
@@ -19151,7 +19151,7 @@
   "What is this, some ancient chainsaw worshipping cult?" *
   "Dance of the double chainsaws!" *
     - Malhavoc; S.C.E.X.; Release, The
-    (Note: * = XXX Rated Version)
+    (Note:   = XXX Rated Version)
 
 420. I Spit on Your Grave [8 points] (2 groups, 2 songs, 3 samples)
     (Also know as Day of the Woman)
@@ -19265,7 +19265,7 @@
 
   "Why, you know, on Earth a girl would rather die than show her real
    feelings." @ 0:19
-  "'We have an old saying. "A man chases a girl until *she* catches him."'
+  "'We have an old saying. "A man chases a girl until *she  catches him."'
    'How silly! What a silly waste of time! I think if a girl wants a man she
     should tell him so!'" @ 0:23
     - Man... or Astro-Man?; Sadie Hawkins Atom Bomb; Is It... Man or Astro-Man?
@@ -19290,7 +19290,7 @@
     - Public Enemy; Contract On The World Love Jam; Fear of a Black Planet
 
 420. Squirm [8 points] (2 groups, 2 songs, 3 samples)
-* "You gonna be da' worm face!" @ 0:00
+  "You gonna be da' worm face!" @ 0:00
     - Blood Freak; Infested With Worms; Sleaze Merchants
 
   "How do you like the accomodations?"
@@ -19349,7 +19349,7 @@
    both hanging from the beam, upside down. Their throats were cut."
     - ClockDVA; Unseen, The; Buried Dreams
 
-* "Wait a minute, hello Airforce 191, 191, from Polar Expedition 6, can you
+  "Wait a minute, hello Airforce 191, 191, from Polar Expedition 6, can you
    read me?" @ 0:09 (Note: The segment 'Polar Expedition 6, can you read me?'
    is also used @ 4:01, 4:04, 4:11, & 04:19. The segment 'Can you read me?' is
    also used @ 4:07, 4:09, 4:14, & 4:17.)
@@ -19366,7 +19366,7 @@
     - Consolidated; Music Has No Meaning; Friendly Fascism
 
 420. Zombi Holocaust [8 points] (2 groups, 2 songs, 3 samples)
-* "'Please doctor I beg you, no! Don't do this to me please doctor. Ahhhh,
+  "'Please doctor I beg you, no! Don't do this to me please doctor. Ahhhh,
     ahhh.'
    'Patient screamed disturbing, performed removal of vocal chords.'
    'His name is Dr. Butcher MD: Medical Deviate, and he has perverted the
@@ -19577,7 +19577,7 @@
     blood! You'd better prepare to die, you sinner! [laughs]'" @ 0:00
     - Impetigo; Bloody Pit of Horror; Faceless
 
-* "'I can't stand it anymore. Let me go.'
+  "'I can't stand it anymore. Let me go.'
    'The Crimson Executioner invented the torture of icy water for creatures
     like you. My vengeance needs blood. The Crimson Executioner cries out for
     blood! You'd better prepare to die, you sinner! [laughs]'" @ 0:00
@@ -19655,7 +19655,7 @@
     - J-Zone; Who is J-Zone; Music for TV Madre
 
 465. Corpse Grinders, The [7 points] (2 groups, 2 songs, 2 samples)
-* "Do you know what this is? It's a corpse grinding machine, a diabolical
+  "Do you know what this is? It's a corpse grinding machine, a diabolical
    contraption that turns human bones and flesh into screaming savage
    blood-death. What kind of madness would profit from the helpless victims
    already interred to their final peace?" @ 0:00
@@ -19695,7 +19695,7 @@
 
 465. Dead Alive [7 points] (2 groups, 2 songs, 2 samples)
     (also known as Braindead)
-* "[eerie music with sounds of digging]
+  "[eerie music with sounds of digging]
    'Oh... fuck.'
    'Hey guys, look what I found.'
    'What are you doing with this then?'
@@ -19778,7 +19778,7 @@
    in Hell." @ 0:00
     - Exploited, The; Massacre, The; Massacre, The
 
-* "He went mad trying to determine his own death. Knowing this, why would I
+  "He went mad trying to determine his own death. Knowing this, why would I
    continue his study of death? I'll tell you why. We're living in a world gone
    mad, a crazy world, a world where death is a way of life. Everyday we read
    of atrocities which numb the brain. But I believe to deny the insanity or
@@ -19888,7 +19888,7 @@
     - Numb; Cash; Christmeister
 
 465. Last House On Dead End Street, The [7 points] (2 groups, 2 songs, 2 samples)
-* "[Terry sawing off Nancy's legs]" @ 0:00
+  "[Terry sawing off Nancy's legs]" @ 0:00
     - Blood Freak; Slaughterhouse, The; Sleaze Merchants
 
   "You've always had a special place in your heart for my movies haven't
@@ -19963,7 +19963,7 @@
     - Pizzicato Five; Roma; Fifth Release from Matador
 
 465. New York Ripper, The [7 points] (2 groups, 2 songs, 2 samples)
-* "[killer making duck noises and stabbing woman, followed by the sound of her
+  "[killer making duck noises and stabbing woman, followed by the sound of her
    falling on some piano keys and kicking a bottle sending it rolling along
    the floor]" @ 0:00
     - Frightmare; Ripper, The; Midnight Murder Mania
@@ -20489,21 +20489,21 @@
     - Man... or Astro-Man?; Human Calculator, The; Is It...Man or Astro-Man?
 
 465. Messenger: The Story of Joan of Arc, The [7 points] (1 group, 1 song, 7 samples)
-* "What happened to your precious angel? Eh? I'll tell you what happened! We
+  "What happened to your precious angel? Eh? I'll tell you what happened! We
    sent the little bitch back to Hell! So that she can go fuck with the
    devil!" @ 0:12 (Note: Repeated throughout)
-* "You didn't see what was. You saw what you wanted to see." @ 0:27, 2:20, 3:20
-* "Personally, I don't believe in God. I don't believe in the Devil either.
+  "You didn't see what was. You saw what you wanted to see." @ 0:27, 2:20, 3:20
+  "Personally, I don't believe in God. I don't believe in the Devil either.
    That's why I'm never disappointed." @ 0:34, 2:30, 3:27
-* "'Who are you to even think that you can know the difference between good and
+  "'Who are you to even think that you can know the difference between good and
     evil. Are you God?'
    'I'm just a messenger. He needs me.'
    'How can you possibly imagine that God, the creator of heaven and earth, the
     source of all life, could possibly need you." @ 3:34
-* "'What do you want from me?'
+  "'What do you want from me?'
    'Nothing.  I'm here to set you free.'" @ 4:53
-* "May God forgive your blasphemy. For I never will. I never will!" @ 5:01
-* "It has to have been the Devil's work." @ 5:07
+  "May God forgive your blasphemy. For I never will. I never will!" @ 5:01
+  "It has to have been the Devil's work." @ 5:07
     - Tactical Sekt; Devil's Work; Burn Process EP
 
 546. Breaking It [6 points] (1 group, 2 songs, 3 samples)
@@ -20552,16 +20552,16 @@
     - Pink Floyd; Is There Anybody Out There?; Wall, The
 
 546. Hotel Room (TV Series) [6 points] (1 group, 2 songs, 3 samples)
-* "Do you know how it hurts your eyes to stare at the horizon? If you stare at
+  "Do you know how it hurts your eyes to stare at the horizon? If you stare at
    the horizon long enough all you see is fire. The entire line of the horizon
    is burning. Fire as far as the eyes can see." @ 0:01
     - Isis; Minus Times, The; Red Sea, The (EP)
 
-* "'You were away.'
+  "'You were away.'
    'When honey? When was I away?'
    'I'm not sure. You were though. Away in the sea of
     red.'" @ 0:01 (Note: Repeated 4 times at 4:20)
-* "Alone in the sea of red." @ 4:13
+  "Alone in the sea of red." @ 4:13
     - Isis; Red Sea; Red Sea, The (EP)
 
 546. Lord Of The Flies [6 points] (1 group, 2 songs, 3 samples)
@@ -20691,10 +20691,10 @@
   "AAAAHhahahahahaha, ha!" @ 6:04 **
   (Note: All samples of Tim Curry as the evil clown Pennywise)
     - Neuromancer; Pennywise
-    (Note: * = Found on the original mix, 12" single, Symphony Sounds, SYM003,
-     A-side. * = Also found multiple times, with other timing indications,
+    (Note:   = Found on the original mix, 12" single, Symphony Sounds, SYM003,
+     A-side.   = Also found multiple times, with other timing indications,
      being used on the "2 Twisted Mix by Mickey Finn & Bay-B-Kane", 12" single,
-     Symphony Sounds, SYM004, A-side. ** = Only found on "The Clown Mix by
+     Symphony Sounds, SYM004, A-side. *  = Only found on "The Clown Mix by
      Neuromancer Drakey and Nookie", 12" single, Symphony Sounds, SYM004,
      B-side)
 
@@ -20831,14 +20831,14 @@
 
 562. Law & Order: Special Victims Unit [5 points] (1 group, 2 songs, 2 samples)
     (TV Series)
-* "'Do you recognize this comic book?'
+  "'Do you recognize this comic book?'
    'Yes. It's called Rapeman. It was seized from the defendent's home.'
    'Rapeman? And what kind of stories are you likely to read in this Rapeman?'
    'It's about the adventures of a high school boy who, by night, becomes a
     masked superhero. He settles scores with women by raping them.'" @ 0:00
     - Morbid Savouring; Smooth Female Skin; Insensitivicious
 
-* "'We're assuming she was grabbed and then hustled into the bushes over here.'
+  "'We're assuming she was grabbed and then hustled into the bushes over here.'
    'What are the round casts?'
    'Knees. See the handprints in front?'
    'Perp made her crawl?'
@@ -21158,7 +21158,7 @@
   "You mean you wanted to go on having connection with her?" *
   (Note: The voice of Edgar Lustgarten)
     - Severed Heads; Dead Eyes Opened; Since the Accident
-    (Note: * =  [Remix Three] on Dead Eyes Opened EP and Stretcher [Australian
+    (Note:   =  [Remix Three] on Dead Eyes Opened EP and Stretcher [Australian
      version])
 
 562. Tagesschau (German News Show) [5 points] (1 group, 1 song, 5 samples)
@@ -21538,7 +21538,7 @@
    and third paries" @ 2:08
   "The problem is that corporate power has increasingly taken over our own
    government" @ 2:52
-* "The government is a government of the Exxon, by the General Motors, for the
+  "The government is a government of the Exxon, by the General Motors, for the
    DuPonts." @ 3:00
   "Don't waste your vote, vote for what you want." @ 4:20
     - din_fiv; Clear (Is Not a Color); Resist The Command (Various Artists)
@@ -21579,10 +21579,10 @@
 607. Serial Killers (Documentary) [4 points] (1 group, 1 song, 4 samples)
     (Note: A direct-to-video documentary directed by Nick Bougas
      <http://imdb.com/name/nm0099262>)
-* "He then proceeded to decapitate her corpse...." @ 2:21
-* "...and brutally bashed in her skill with a hammer." @ 2:23
-* "...have sex with the headless body...." @ 2:26, 2:29
-* "...in a grisly ritual of mutilation and necrophillia." @ 2:31
+  "He then proceeded to decapitate her corpse...." @ 2:21
+  "...and brutally bashed in her skill with a hammer." @ 2:23
+  "...have sex with the headless body...." @ 2:26, 2:29
+  "...in a grisly ritual of mutilation and necrophillia." @ 2:31
     - Rob Zombie; Great American Nightmare (feat. Howard Stern), The;
       Private Parts: The Album (Soundtrack)
 
@@ -21838,7 +21838,7 @@
    don't think drugs have done good things, do me a favour, go home tonight,
    take all your tapes, all your albums and all your CDs and burn'em. Cos all
    the musicians that made that great music which has enriched your lives
-   throughout the years?..... *real* fuckin' high on drugs man"
+   throughout the years?..... *real  fuckin' high on drugs man"
   "Today a young man on acid realised all matter is nothing but energy
    condensed into a slow vibration, that we are all one consciousness
    experiencing ourselves subjectively. There is no such thing as death, life
@@ -21989,18 +21989,18 @@
     - Implant; We Are Doing Fine; Horseback Riding Through Bassfields
 
 643. Salton Sea, The [3 points] (1 group, 1 song, 3 samples)
-* "The land of the perpetual night party." @ 1:46, 4:40, 5:40
-* "Day swallowing night and night swallowing day." @ 2:00, 4:53, 5:53
-* "And keep your eyes open. Nothing is as it seems." @ 2:13, 5:06, 6:07,
+  "The land of the perpetual night party." @ 1:46, 4:40, 5:40
+  "Day swallowing night and night swallowing day." @ 2:00, 4:53, 5:53
+  "And keep your eyes open. Nothing is as it seems." @ 2:13, 5:06, 6:07,
    8:13 (Note: Last part of sample ised also used at 5:33)
   (Note: All samples being slowed down)
     - Dino Psaras; Perpetual Night Party; Lick It
 
 643. Saw [3 points] (1 group, 1 song, 3 samples)
-* "Hello Amanda, I wanna play a game." @ 0:59
-* "When there's that much poison in your blood, the only thing left to do... is
+  "Hello Amanda, I wanna play a game." @ 0:59
+  "When there's that much poison in your blood, the only thing left to do... is
    shoot yourself." @ 1:18
-* "I woke up... all I could taste was blood." @ 1:36, 1:59, 2:20
+  "I woke up... all I could taste was blood." @ 1:36, 1:59, 2:20
     - Angels In Bondage; SAWed To Pieces; Atychiphobia
 
 643. Shaft [3 points] (1 group, 1 song, 3 samples)
@@ -22611,9 +22611,9 @@
 
 688. Brown, H. Rap (Leader) [2 points] (1 group, 1 song, 2 samples)
     (Note: Justice minister of the Black Panther Party)
-* "See, it's no in between: you're either free or you're a slave. There's no
+  "See, it's no in between: you're either free or you're a slave. There's no
    such thing as second class citizenship. [applause]" @ 2:05
-* "The only politics in this country that's relevant to black people today is
+  "The only politics in this country that's relevant to black people today is
    the politics of revolution. None other. [applause] " @ 2:16
   (Note: Samples from his address at the Huey Newton Birthday Rally, February
    17, 1968)
@@ -22667,11 +22667,11 @@
     - Wumpscut; Sehnsucht / Longing; Boeses Junges Fleisch / Eevil Young Flesh
 
 688. M*A*S*H (TV Series) [2 points] (1 group, 1 song, 2 samples)
-* "'Das ist das erste Mal, das ich heulen muss, wenn ich in dem Scheissladen
+  "'Das ist das erste Mal, das ich heulen muss, wenn ich in dem Scheissladen
     hier bin. Ich versteh das gar nicht.'
    'Hm... es ist nur natürlich, das du... äh... naja... du weisst
     schon.'" @ 0:02
-* "'Ich weiss, warum ich weine. <???>'
+  "'Ich weiss, warum ich weine. <???>'
    'Es gibt gewisse Regeln im Krieg <???> Im Krieg sterben junge Männer.'
    'Glaubst du das?'" @ 1:57
   (Note: Taken from the dubbed German version)
@@ -22837,9 +22837,9 @@
     - Horn, Ernst; Kurze Pause; Johnny Bumms Wake
 
 688. Wallace & Gromit: The Wrong Trousers [2 points] (1 group, 1 song, 2 samples)
-* "Well, that went as well as could be expected, didn't it,
+  "Well, that went as well as could be expected, didn't it,
    hmmm?" @ 2:59 (Note: Peter Sallis)
-* "I knew you'd like it." @ 4:58 (Note: Peter Sallis)
+  "I knew you'd like it." @ 4:58 (Note: Peter Sallis)
     - Zebra-n; Man On A Mission; Psytrance of Holland (Compilation)
 
 688. War of the Gargantuas [2 points] (1 group, 1 song, 2 samples)
@@ -22859,8 +22859,8 @@
     - Leaether Strip; Satanic Citizen; Science For The Satanic Citizen
 
 688. Warning To The Curious, A [2 points] (1 group, 1 song, 2 samples)
-* "I only glanced once at his face." @ 0:56, 2:24
-* "That's a very curious matter, isn't it?" @ 2:33
+  "I only glanced once at his face." @ 0:56, 2:24
+  "That's a very curious matter, isn't it?" @ 2:33
     - Lawler, Paul; John Doe: 1742; Bronx Age
 
 688. Welt in Jenem Sommer, Die [2 points] (1 group, 1 song, 2 samples)
@@ -23447,7 +23447,7 @@
 791. Handmaid's Tale, The [1 point] (1 group, 1 song, 1 sample)
   "...the whore of Babylon"
     - My Life with the Thrill Kill Kult; Blue Buddha; 13 Above the Night
-    (Note: * = Found on the Blue Buddha remix)
+    (Note:   = Found on the Blue Buddha remix)
 
 791. Hassan (Radio Show) [1 point] (1 group, 1 song, 1 sample)
     (Note: A very popular Swedish radio show)
@@ -24203,7 +24203,7 @@
     - Skinny Puppy; Unovis on a Stick; Back and Forth, Series Two
 
 791. Being There [1 point] (1 group, 1 song, 1 sample)
-* "Life is a state of mind" @ 0:00
+  "Life is a state of mind" @ 0:00
     - Wolfgang Press, The; Mother Valentine; Queer
 
 791. Big Chill, The [1 point] (1 group, 1 song, 1 sample)
@@ -24216,7 +24216,7 @@
     - Engorged; Chemically Castrated; Death Metal Attack 2
 
 791. Blood Diner [1 point] (1 group, 1 song, 1 sample)
-* "Note: All of the mutilations, bodily dismemberments, and cannibal rituals
+  "Note: All of the mutilations, bodily dismemberments, and cannibal rituals
    were performed by seasoned professionals. Please do not attempt any of
    these stunts at home. Thank you." @ 0:00
     - Blood Freak; Warning; Sleaze Merchants
@@ -24252,7 +24252,7 @@
     - Aiboforcen; Peep Show; Sons Palliatifs
 
 791. Brainstorm [1 point] (1 group, 1 song, 1 sample)
-* "'You go to Hell'
+  "'You go to Hell'
    'You go to Hell too'
    'Don't push me!'" (Note: Nasty argument between Christopher Walken and
     Natalie Wood. This was the movie she was filming when she disappeared
@@ -24264,7 +24264,7 @@
     - Sigue Sigue Sputnik; Sex Bomb Boogie; Flaunt It
 
 791. Burning, The [1 point] (1 group, 1 song, 1 sample)
-* "'Its been a long struggle but now that you've regained your strength, its
+  "'Its been a long struggle but now that you've regained your strength, its
     time for you to leave.'
    'Considering how badly you were burned, you're luckly to be alive.'
    'The first few months outside will be the hardest.'
@@ -24360,7 +24360,7 @@
     - White Zombie; Electric Head Pt. 1; Astro Creep: 2000
 
 791. Dancing Outlaw, The (Documentary) [1 point] (1 group, 1 song, 1 sample)
-* "'Elvis, how long does Priscilla have to wait now before she has sex
+  "'Elvis, how long does Priscilla have to wait now before she has sex
     again?'
    'Well, I don't know, it could be a lifetime, or it could be
     tomorrow.'" @ 2:27
@@ -24405,7 +24405,7 @@
     - Skinless; Crispy Kids; Progression Towards Evil
 
 791. Deranged [1 point] (1 group, 1 song, 1 sample)
-* "After that Ezra made many visits to the graveyard bringing home bodies or
+  "After that Ezra made many visits to the graveyard bringing home bodies or
    parts of bodies to keep his mother and himself company. He was a ghoul, a
    necromaniac, a defiler of the dead. But he had not yet turned his sickness
    on a living victim. It was only a matter of time until he did." @ 0:00
@@ -24434,7 +24434,7 @@
     - God Module; Telekinec; Empath
 
 791. Duke Nukem 3D (Video Game) [1 point] (1 group, 1 song, 1 sample)
-* "Ah, much better." @ 2:22 (Note: The sample is heard in the right channel and
+  "Ah, much better." @ 2:22 (Note: The sample is heard in the right channel and
    is fairly quiet)
     - Slipknot; Eeyore; Slipknot
     (Note: Eeyore is a hidden track that comes after Scissors on the regular
@@ -24514,7 +24514,7 @@
     - Ghostface Killa; Iron Maiden; Ironman
 
 791. Friday The 13th [1 point] (1 group, 1 song, 1 sample)
-* "Kill her mommy! Kill her! Don't let her get away, mommy! Don't let her
+  "Kill her mommy! Kill her! Don't let her get away, mommy! Don't let her
    live! I won't, Jason! I won't!" @ 0:00 (Note: Mrs. Voorhees talking to
    herself)
     - Frightmare; Friday The 13th; Midnight Murder Mania
@@ -24543,7 +24543,7 @@
       Never Good Enough For You
 
 791. Futurama (TV Series) [1 point] (1 group, 1 song, 1 sample)
-* "'No, wait, I've got it! I know what's in the box! Oh, I've been as dumb as
+  "'No, wait, I've got it! I know what's in the box! Oh, I've been as dumb as
     Fry.' (Note: Professor Farnsworth)
    'Am not!' (Note: Fry)
    'It contains a parallel universe!'" @ 3:24 (Note: From the episode "The
@@ -24604,7 +24604,7 @@
     - Japanese Car Crash; In Others 1.1; Attack Decay Sustain Relaese
 
 791. Gotcha! [1 point] (1 group, 1 song, 1 sample)
-* "[sound of door]
+  "[sound of door]
    'What do you think you're doing?'
    'What's that?  How would you feel about going on to Spain without me?'
    'You mean-'
@@ -24635,7 +24635,7 @@
     - Impetigo; Staph Terrorist; Horror Of The Zombies
 
 791. Gun Shy [1 point] (1 group, 1 song, 1 sample)
-* "'...believe the eyes are the windows to the soul?' (Note: Oliver Platt as
+  "'...believe the eyes are the windows to the soul?' (Note: Oliver Platt as
     Fulvio Nesstra)
    'Huh?' (Note: Liam Neeson as Charlie Mayeaux)
    'I'm very good at reading what's in a person's eyes.'
@@ -24700,7 +24700,7 @@
     - Akercocke; Praise The Name of Satan; Choronzon
 
 791. Hardgore [1 point] (1 group, 1 song, 1 sample)
-* "'Listen... dont stay here. I'll unlock your door tonight. Please, you must
+  "'Listen... dont stay here. I'll unlock your door tonight. Please, you must
     run away!'
    'Why?'
    'There are terrible things happening here... come on'" @ 0:01
@@ -24743,7 +24743,7 @@
     - Space Buddha; Dust In The Wind; Storm Reaction
 
 791. Idiot Box [1 point] (1 group, 1 song, 1 sample)
-* "'Can’t.'
+  "'Can’t.'
    'Well, why not?'
    'I got me ummm, you know, got my things.'
    'What, got your periods?'
@@ -24805,7 +24805,7 @@
     - Velvet Acid Christ; Misery; Hex Angel: Utopia - Dystopia
 
 791. Judge Dredd [1 point] (1 group, 1 song, 1 sample)
-* "I forgot to mention it. Your new friends, they're cannibals" @ 0:01
+  "I forgot to mention it. Your new friends, they're cannibals" @ 0:01
     - Torture Killer; Necrophag; For Maggots To Devour
 
 791. Karl-Bertil Jonssons Julafton [1 point] (1 group, 1 song, 1 sample)
@@ -24888,7 +24888,7 @@
     - Cabaret Voltaire; Kino; Drinking Gasoline
 
 791. League Of Gentlemen, The (TV Series) [1 point] (1 group, 1 song, 1 sample)
-* "What is the meaning of this? Butt-naked in the lobby of this house.
+  "What is the meaning of this? Butt-naked in the lobby of this house.
    Doubtless you've been in the bathroom spraying your belly with sticky white
    love piss." @ 0:00
     - Blood Duster; Intro (Track 3); SixSixSixteen
@@ -24947,7 +24947,7 @@
     - Space Buddha; Lost In Infinity; Storm Reaction
 
 791. Malmsteen, Yngwie (Guitarist) [1 point] (1 group, 1 song, 1 sample)
-* "You released the fucking fury... You released the fucking
+  "You released the fucking fury... You released the fucking
    fury!" @ 2:02 (Note: Taken from a widely distributed, via the internet,
    recording when Yngwie Malmsteen is flipping out on an airplane and yelling
    at a fellow passenger. See <http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=8100>)
@@ -24961,7 +24961,7 @@
     - Tear Garden, The; You And Me And Rainbows; Tired Eyes Slowly Burning
 
 791. Masters Of The Universe [1 point] (1 group, 1 song, 1 sample)
-* "At the center of the universe, at the border between the light and the dark
+  "At the center of the universe, at the border between the light and the dark
    stands Castle Greyskull. For countless ages the sorceress of Greyskull has
    kept this universe in harmony. But the armies of darkness do not rest and
    the capture of Greyskull is evermost in their minds for those that control
@@ -24980,7 +24980,7 @@
     - Divine Misfire; One Step Over The Brink; Black Market Scholar
 
 791. Meet The Feebles [1 point] (1 group, 1 song, 1 sample)
-* "I say everyone, who's the dirty person who did the great big stinky poo
+  "I say everyone, who's the dirty person who did the great big stinky poo
    thats blocking up the toilet?" @ 0:00
     - Blood Duster; Intro (Track 28); Yeest
 
@@ -25005,7 +25005,7 @@
     - Japanese Car Crash; In Others 1.1; Attack Decay Sustain Release
 
 791. My Blood Valentine [1 point] (1 group, 1 song, 1 sample)
-* "Every February 14th, Harry comes back to town. His pickaxe stained with
+  "Every February 14th, Harry comes back to town. His pickaxe stained with
    blood, waiting in the shadows of the Heniger Mine just for someone to
    kill, should they not heed his warning. It could be you!" @ 0:00
     - Frightmare; Be My Bloody Valentine; Midnight Murder Mania
@@ -25016,7 +25016,7 @@
     - Radioactive Goldfish; Algorithm E.; Rhythm and Rave
 
 791. Night of the Creeps [1 point] (1 group, 1 song, 1 sample)
-* "Zombies, exploding heads, creepy crawlies, and a date for the
+  "Zombies, exploding heads, creepy crawlies, and a date for the
    formal?" @ 0:00
     - Blood Freak; You Are What We Eat!; Sleaze Merchants
 
@@ -25139,7 +25139,7 @@
       Re-Covered In Nails: A Tribute To Nine Inch Nails
 
 791. Psychomania [1 point] (1 group, 1 song, 1 sample)
-* "'Something must have forced him over. Did you get anything out of the
+  "'Something must have forced him over. Did you get anything out of the
     witnesses?'
    'Yes sir. Exactly the same story from all of them. Two motorcyclists jabbing
     at his tire with a knife.'
@@ -25148,7 +25148,7 @@
     - Electric Wizard; We Live; We Live
 
 791. Rabid [1 point] (1 group, 1 song, 1 sample)
-* "'Do you want me to complete the stitching Dr. Keloid?'
+  "'Do you want me to complete the stitching Dr. Keloid?'
    'I need something to cut with Dr. Rushtin.'
    'Do you want the scissors now doctor?'
    'Yes, scissors, now'
@@ -25276,7 +25276,7 @@
     - Ice Cube; Robbin' Hood (Cause it Ain't All Good); Bootlegs & B-Sides
 
 791. Rock Star [1 point] (1 group, 1 song, 1 sample)
-* "[the song "You got the touch..." is turned down but continues low in back
+  "[the song "You got the touch..." is turned down but continues low in back
     ground]
    'Do you think the bass is taking away from the vocal?'
    'Well not really, maybe, sounds balanced to me.'
@@ -25372,7 +25372,7 @@
     - P.A.L; Seduction; Signum
 
 791. Session 9 [1 point] (1 group, 1 song, 1 sample)
-* "'And where do you live, Simon?'
+  "'And where do you live, Simon?'
    'I live in the weak and the wounded...'" @ 1:53 (Note: The last word of the
     line, Doc, is not included in the sample)
     - Antigen Shift; Phase 2; This Moment Of Cold Remembering
@@ -25487,7 +25487,7 @@
     - Divine Misfire; Final Moment, The; Black Market Scholar
 
 791. Slumber Party Massacre, The [1 point] (1 group, 1 song, 1 sample)
-* "'How pretty.  All of you are very pretty.'
+  "'How pretty.  All of you are very pretty.'
    'Please don't do this.'
    'I love you.'
    'Please, I didn't hurt you. Stop doing this!'
@@ -25576,7 +25576,7 @@
     - Saint Etienne; Duke Duvet; You're In A Bad Way (Single)
 
 791. Stalingrad [1 point] (1 group, 1 song, 1 sample)
-* "Traeume ich jede Nacht..." @ 0:10 (Note: The original contributor was not
+  "Traeume ich jede Nacht..." @ 0:10 (Note: The original contributor was not
    able to transcribe the complete sample. Could someone please make a
    correction contribution with the complete sample transcribed?)
     - Stromkern; Exile; Dämmerung Im Traum
@@ -25606,7 +25606,7 @@
     - Venetian Snares; Intense Demonic Attacks; Salt (EP)
 
 791. Stoned Age, The [1 point] (1 group, 1 song, 1 sample)
-* "'C'mon man, don't say that, I mean she's pretty fine'
+  "'C'mon man, don't say that, I mean she's pretty fine'
    'Oh not even man, she's a fuckin' fatass'
    [lots of laughter]
    'C'mon man, I mean, I wouldn't kick her out of bed'" @ 0:00
@@ -25850,7 +25850,7 @@
     - Marilyn Manson; Beautiful People, The; Antichrist Superstar
 
 791. Wedding Singer, The [1 point] (1 group, 1 song, 1 sample)
-* "'You get emotionally involved and they end up, they...'
+  "'You get emotionally involved and they end up, they...'
    'What do they do?'
    'They rip your hear out of your ass!'" @ 0:01
     - +killthemanbecomethemonster+;
@@ -25889,7 +25889,7 @@
 791. Wild Hare, A (Cartoon) [1 point] (1 group, 1 song, 1 sample)
     (Note: The first Bugs Bunny cartoon, directed by Tex Avery and appearing
      July 27, 1940)
-* "Everything is getting dark" @ 1:38, 1:41, 1:44, 1:47, 1:50, 1:54, 1:57,
+  "Everything is getting dark" @ 1:38, 1:41, 1:44, 1:47, 1:50, 1:54, 1:57,
    2:00, 2:04, 2:07, 2:10, 2:13, 2:17, 2:20, 4:07, 4:11, 4:14, 4:17, 4:21,
    4:24, 4:27, 4:30 (Note: Bugs Bunny. Partly used at 2:22 and 4:33 as well.)
     - Jungle House Crew; King Of The Jungle (Mickey Finn Remix)
@@ -25925,9 +25925,9 @@
 791. Year of the Dragon [1 point] (1 group, 1 song, 1 sample)
   "Niech b*e*dzie pochwalony Jezus Chrystus. Na wieki wiek*o*w, Amen. W imi*e*
    Ojca i Syna i Ducha *s*wi*e*tego, Amen. Ojciec Mi*l*osierdzia <2-3 words???>
-   zgromadzili*s*my si*e* aby po*z*egna*c* naszych zmar*l*ych. Je*s*li <2-3
-   words???> przyjaciela <???>. Wszyscy wierzymy w ni*a* i wyra*z*amy w nich
-   nasze nadzieje. Ufamy, *z*e spotkamy si*e* znowu <???>. Wierzymy w
+   zgromadzili*s*my si*e  aby po*z*egna*c  naszych zmar*l*ych. Je*s*li <2-3
+   words???> przyjaciela <???>. Wszyscy wierzymy w ni*a  i wyra*z*amy w nich
+   nasze nadzieje. Ufamy, *z*e spotkamy si*e  znowu <???>. Wierzymy w
    pocz*a*tek lepszego *z*ycia. A nasza roz*l**a*ka ze zmar*l*ymi jest
    przej*s*ciowa." @ 1:15 (Note: Translated to: '[special polish christian
    greeting]. For ever and ever. Amen. In the Name of the Father, and of the
@@ -25935,13 +25935,13 @@
    to bid our deceased farewell. In case <???> friend <???>. We all believe in
    it and express our hopes in them. We are convinced that we will meet again.
    We believe in a beginning of a better life. And our seperation with
-   the dead is temporary.' The character combinations *x* are special polish
-   characters. *e* = with a tail under. Pronounced, in general, like 'eu'
-   in 'reumatic'. *o* = with a vertical line above. Pronounced like
-   in 'loose'.  *s* = with a vertical line above. Pronounce like in "sure".
-   *z* = with a dot above. Pronounced like 'j' in 'journal'. *c* = with a
-   vertical line above. Pronounce like 'tch' in 'fetch'. *a* = with a tail
-   under. Pronounced, in general, like 'owe'. *l* = with a 45-degree line
+   the dead is temporary.' The character combinations *x  are special polish
+   characters. *e  = with a tail under. Pronounced, in general, like 'eu'
+   in 'reumatic'. *o  = with a vertical line above. Pronounced like
+   in 'loose'.  *s  = with a vertical line above. Pronounce like in "sure".
+   *z  = with a dot above. Pronounced like 'j' in 'journal'. *c  = with a
+   vertical line above. Pronounce like 'tch' in 'fetch'. *a  = with a tail
+   under. Pronounced, in general, like 'owe'. *l  = with a 45-degree line
    through the middle. Pronounced like 'w' in 'welcome')
     - Skinny Puppy; Draining Faces; Cleanse, Fold and Manipulate
 
